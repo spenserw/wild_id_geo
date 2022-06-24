@@ -1,0 +1,195 @@
+{
+  "species": {
+    "Accipitridae": {
+      "Buteo brachyurus": {
+        "scientific_name": "Buteo brachyurus",
+        "common_name": "Short-tailed Hawk"
+      },
+      "Buteo platypterus": {
+        "scientific_name": "Buteo platypterus",
+        "common_name": "Broad-winged Hawk"
+      },
+      "Aquila chrysaetos": {
+        "scientific_name": "Aquila chrysaetos",
+        "common_name": "Golden Eagle"
+      },
+      "Accipiter striatus": {
+        "scientific_name": "Accipiter striatus",
+        "common_name": "Sharp-shinned Hawk"
+      },
+      "Buteo swainsoni": {
+        "scientific_name": "Buteo swainsoni",
+        "common_name": "Swainson's Hawk"
+      },
+      "Haliaeetus leucocephalus": {
+        "scientific_name": "Haliaeetus leucocephalus",
+        "common_name": "Bald Eagle"
+      },
+      "Accipiter cooperii": {
+        "scientific_name": "Accipiter cooperii",
+        "common_name": "Cooper's Hawk"
+      },
+      "Buteo regalis": {
+        "scientific_name": "Buteo regalis",
+        "common_name": "Ferruginous Hawk"
+      },
+      "Haliaeetus albicilla": {
+        "scientific_name": "Haliaeetus albicilla",
+        "common_name": "White-tailed Sea-eagle"
+      },
+      "Buteo lagopus": {
+        "scientific_name": "Buteo lagopus",
+        "common_name": "Rough-legged Buzzard"
+      },
+      "Buteo lineatus": {
+        "scientific_name": "Buteo lineatus",
+        "common_name": "Red-shouldered Hawk"
+      },
+      "Buteo jamaicensis": {
+        "scientific_name": "Buteo jamaicensis",
+        "common_name": "Red-tailed Hawk"
+      },
+      "Buteo albonotatus": {
+        "scientific_name": "Buteo albonotatus",
+        "common_name": "Zone-tailed Hawk"
+      },
+      "Buteo plagiatus": {
+        "scientific_name": "Buteo plagiatus",
+        "common_name": "Grey Hawk"
+      },
+      "Circus hudsonius": {
+        "scientific_name": "Circus hudsonius",
+        "common_name": "Northern Harrier"
+      },
+      "Elanus leucurus": {
+        "scientific_name": "Elanus leucurus",
+        "common_name": "White-tailed Kite"
+      },
+      "Rostrhamus sociabilis": {
+        "scientific_name": "Rostrhamus sociabilis",
+        "common_name": "Snail Kite"
+      },
+      "Parabuteo unicinctus": {
+        "scientific_name": "Parabuteo unicinctus",
+        "common_name": "Harris's Hawk"
+      },
+      "Buteogallus anthracinus": {
+        "scientific_name": "Buteogallus anthracinus",
+        "common_name": "Common Black Hawk"
+      },
+      "Elanoides forficatus": {
+        "scientific_name": "Elanoides forficatus",
+        "common_name": "Swallow-tailed Kite"
+      },
+      "Geranoaetus albicaudatus": {
+        "scientific_name": "Geranoaetus albicaudatus",
+        "common_name": "White-tailed Hawk"
+      },
+      "Ictinia mississippiensis": {
+        "scientific_name": "Ictinia mississippiensis",
+        "common_name": "Mississippi Kite"
+      },
+      "Buteo solitarius": {
+        "scientific_name": "Buteo solitarius",
+        "common_name": "Hawaiian Hawk"
+      },
+      "Accipiter gentilis": {
+        "scientific_name": "Accipiter gentilis",
+        "common_name": "Northern Goshawk"
+      },
+      "Chondrohierax uncinatus": {
+        "scientific_name": "Chondrohierax uncinatus",
+        "common_name": "Hook-billed Kite"
+      }
+    },
+    "Strigidae": {
+      "Asio otus": {
+        "scientific_name": "Asio otus",
+        "common_name": "Northern Long-eared Owl"
+      },
+      "Strix nebulosa": {
+        "scientific_name": "Strix nebulosa",
+        "common_name": "Great Grey Owl"
+      },
+      "Asio flammeus": {
+        "scientific_name": "Asio flammeus",
+        "common_name": "Short-eared Owl"
+      },
+      "Athene cunicularia": {
+        "scientific_name": "Athene cunicularia",
+        "common_name": "Burrowing Owl"
+      },
+      "Glaucidium californicum": {
+        "scientific_name": "Glaucidium californicum",
+        "common_name": "Northern Pygmy-owl"
+      },
+      "Aegolius acadicus": {
+        "scientific_name": "Aegolius acadicus",
+        "common_name": "Northern Saw-whet Owl"
+      },
+      "Psiloscops flammeolus": {
+        "scientific_name": "Psiloscops flammeolus",
+        "common_name": "Flammulated Owl"
+      },
+      "Strix occidentalis": {
+        "scientific_name": "Strix occidentalis",
+        "common_name": "Spotted Owl"
+      },
+      "Surnia ulula": {
+        "scientific_name": "Surnia ulula",
+        "common_name": "Northern Hawk-owl"
+      },
+      "Bubo scandiacus": {
+        "scientific_name": "Bubo scandiacus",
+        "common_name": "Snowy Owl"
+      },
+      "Strix varia": {
+        "scientific_name": "Strix varia",
+        "common_name": "Barred Owl"
+      },
+      "Glaucidium gnoma": {
+        "scientific_name": "Glaucidium gnoma",
+        "common_name": "Mountain Pygmy-owl"
+      },
+      "Megascops kennicottii": {
+        "scientific_name": "Megascops kennicottii",
+        "common_name": "Western Screech-owl"
+      },
+      "Micrathene whitneyi": {
+        "scientific_name": "Micrathene whitneyi",
+        "common_name": "Elf Owl"
+      },
+      "Glaucidium brasilianum": {
+        "scientific_name": "Glaucidium brasilianum",
+        "common_name": "Ferruginous Pygmy-owl"
+      },
+      "Aegolius funereus": {
+        "scientific_name": "Aegolius funereus",
+        "common_name": "Boreal Owl"
+      },
+      "Megascops asio": {
+        "scientific_name": "Megascops asio",
+        "common_name": "Eastern Screech-owl"
+      },
+      "Megascops trichopsis": {
+        "scientific_name": "Megascops trichopsis",
+        "common_name": "Whiskered Screech-owl"
+      },
+      "Bubo virginianus": {
+        "scientific_name": "Bubo virginianus",
+        "common_name": "Great Horned Owl"
+      }
+    }
+  },
+  "families": {
+    "Accipitridae": {
+      "common_name": "Hawks, eagles",
+      "count": 25
+    },
+    "Strigidae": {
+      "common_name": "Typical owls",
+      "count": 19
+    }
+  },
+  "count": 2
+}

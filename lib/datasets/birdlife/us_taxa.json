@@ -1,0 +1,4089 @@
+{
+  "species": {
+    "Anatidae": {
+      "Anas platyrhynchos": {
+        "scientific_name": "Anas platyrhynchos",
+        "common_name": "Mallard"
+      },
+      "Anas acuta": {
+        "scientific_name": "Anas acuta",
+        "common_name": "Northern Pintail"
+      },
+      "Anas wyvilliana": {
+        "scientific_name": "Anas wyvilliana",
+        "common_name": "Hawaiian Duck"
+      },
+      "Branta sandvicensis": {
+        "scientific_name": "Branta sandvicensis",
+        "common_name": "Hawaiian Goose"
+      },
+      "Aythya americana": {
+        "scientific_name": "Aythya americana",
+        "common_name": "Redhead"
+      },
+      "Aythya valisineria": {
+        "scientific_name": "Aythya valisineria",
+        "common_name": "Canvasback"
+      },
+      "Spatula clypeata": {
+        "scientific_name": "Spatula clypeata",
+        "common_name": "Northern Shoveler"
+      },
+      "Histrionicus histrionicus": {
+        "scientific_name": "Histrionicus histrionicus",
+        "common_name": "Harlequin Duck"
+      },
+      "Mareca americana": {
+        "scientific_name": "Mareca americana",
+        "common_name": "American Wigeon"
+      },
+      "Lophodytes cucullatus": {
+        "scientific_name": "Lophodytes cucullatus",
+        "common_name": "Hooded Merganser"
+      },
+      "Melanitta perspicillata": {
+        "scientific_name": "Melanitta perspicillata",
+        "common_name": "Surf Scoter"
+      },
+      "Polysticta stelleri": {
+        "scientific_name": "Polysticta stelleri",
+        "common_name": "Steller's Eider"
+      },
+      "Somateria mollissima": {
+        "scientific_name": "Somateria mollissima",
+        "common_name": "Common Eider"
+      },
+      "Cygnus columbianus": {
+        "scientific_name": "Cygnus columbianus",
+        "common_name": "Tundra Swan"
+      },
+      "Mareca strepera": {
+        "scientific_name": "Mareca strepera",
+        "common_name": "Gadwall"
+      },
+      "Cygnus buccinator": {
+        "scientific_name": "Cygnus buccinator",
+        "common_name": "Trumpeter Swan"
+      },
+      "Anas rubripes": {
+        "scientific_name": "Anas rubripes",
+        "common_name": "American Black Duck"
+      },
+      "Anser rossii": {
+        "scientific_name": "Anser rossii",
+        "common_name": "Ross's Goose"
+      },
+      "Aythya affinis": {
+        "scientific_name": "Aythya affinis",
+        "common_name": "Lesser Scaup"
+      },
+      "Dendrocygna bicolor": {
+        "scientific_name": "Dendrocygna bicolor",
+        "common_name": "Fulvous Whistling-duck"
+      },
+      "Cairina moschata": {
+        "scientific_name": "Cairina moschata",
+        "common_name": "Muscovy Duck"
+      },
+      "Anas fulvigula": {
+        "scientific_name": "Anas fulvigula",
+        "common_name": "Mottled Duck"
+      },
+      "Anser caerulescens": {
+        "scientific_name": "Anser caerulescens",
+        "common_name": "Snow Goose"
+      },
+      "Branta canadensis": {
+        "scientific_name": "Branta canadensis",
+        "common_name": "Canada Goose"
+      },
+      "Mergus serrator": {
+        "scientific_name": "Mergus serrator",
+        "common_name": "Red-breasted Merganser"
+      },
+      "Oxyura jamaicensis": {
+        "scientific_name": "Oxyura jamaicensis",
+        "common_name": "Ruddy Duck"
+      },
+      "Spatula querquedula": {
+        "scientific_name": "Spatula querquedula",
+        "common_name": "Garganey"
+      },
+      "Bucephala islandica": {
+        "scientific_name": "Bucephala islandica",
+        "common_name": "Barrow's Goldeneye"
+      },
+      "Mareca penelope": {
+        "scientific_name": "Mareca penelope",
+        "common_name": "Eurasian Wigeon"
+      },
+      "Aythya collaris": {
+        "scientific_name": "Aythya collaris",
+        "common_name": "Ring-necked Duck"
+      },
+      "Bucephala clangula": {
+        "scientific_name": "Bucephala clangula",
+        "common_name": "Common Goldeneye"
+      },
+      "Bucephala albeola": {
+        "scientific_name": "Bucephala albeola",
+        "common_name": "Bufflehead"
+      },
+      "Branta bernicla": {
+        "scientific_name": "Branta bernicla",
+        "common_name": "Brent Goose"
+      },
+      "Branta hutchinsii": {
+        "scientific_name": "Branta hutchinsii",
+        "common_name": "Cackling Goose"
+      },
+      "Camptorhynchus labradorius": {
+        "scientific_name": "Camptorhynchus labradorius",
+        "common_name": "Labrador Duck"
+      },
+      "Somateria fischeri": {
+        "scientific_name": "Somateria fischeri",
+        "common_name": "Spectacled Eider"
+      },
+      "Nomonyx dominicus": {
+        "scientific_name": "Nomonyx dominicus",
+        "common_name": "Masked Duck"
+      },
+      "Anas carolinensis": {
+        "scientific_name": "Anas carolinensis",
+        "common_name": "Green-winged Teal"
+      },
+      "Clangula hyemalis": {
+        "scientific_name": "Clangula hyemalis",
+        "common_name": "Long-tailed Duck"
+      },
+      "Anser albifrons": {
+        "scientific_name": "Anser albifrons",
+        "common_name": "Greater White-fronted Goose"
+      },
+      "Anser canagicus": {
+        "scientific_name": "Anser canagicus",
+        "common_name": "Emperor Goose"
+      },
+      "Cygnus olor": {
+        "scientific_name": "Cygnus olor",
+        "common_name": "Mute Swan"
+      },
+      "Mergellus albellus": {
+        "scientific_name": "Mergellus albellus",
+        "common_name": "Smew"
+      },
+      "Anser fabalis": {
+        "scientific_name": "Anser fabalis",
+        "common_name": "Bean Goose"
+      },
+      "Aythya marila": {
+        "scientific_name": "Aythya marila",
+        "common_name": "Greater Scaup"
+      },
+      "Mergus merganser": {
+        "scientific_name": "Mergus merganser",
+        "common_name": "Goosander"
+      },
+      "Spatula cyanoptera": {
+        "scientific_name": "Spatula cyanoptera",
+        "common_name": "Cinnamon Teal"
+      },
+      "Spatula discors": {
+        "scientific_name": "Spatula discors",
+        "common_name": "Blue-winged Teal"
+      },
+      "Anas laysanensis": {
+        "scientific_name": "Anas laysanensis",
+        "common_name": "Laysan Duck"
+      },
+      "Anas crecca": {
+        "scientific_name": "Anas crecca",
+        "common_name": "Common Teal"
+      },
+      "Cygnus cygnus": {
+        "scientific_name": "Cygnus cygnus",
+        "common_name": "Whooper Swan"
+      },
+      "Somateria spectabilis": {
+        "scientific_name": "Somateria spectabilis",
+        "common_name": "King Eider"
+      },
+      "Aix sponsa": {
+        "scientific_name": "Aix sponsa",
+        "common_name": "Wood Duck"
+      },
+      "Dendrocygna autumnalis": {
+        "scientific_name": "Dendrocygna autumnalis",
+        "common_name": "Black-bellied Whistling-duck"
+      },
+      "Aythya fuligula": {
+        "scientific_name": "Aythya fuligula",
+        "common_name": "Tufted Duck"
+      },
+      "Melanitta americana": {
+        "scientific_name": "Melanitta americana",
+        "common_name": "Black Scoter"
+      },
+      "Melanitta deglandi": {
+        "scientific_name": "Melanitta deglandi",
+        "common_name": "White-winged Scoter"
+      },
+      "Melanitta stejnegeri": {
+        "scientific_name": "Melanitta stejnegeri",
+        "common_name": "Siberian Scoter"
+      }
+    },
+    "Rallidae": {
+      "Fulica alai": {
+        "scientific_name": "Fulica alai",
+        "common_name": "Hawaiian Coot"
+      },
+      "Gallinula galeata": {
+        "scientific_name": "Gallinula galeata",
+        "common_name": "Common Gallinule"
+      },
+      "Laterallus jamaicensis": {
+        "scientific_name": "Laterallus jamaicensis",
+        "common_name": "Black Rail"
+      },
+      "Porzana carolina": {
+        "scientific_name": "Porzana carolina",
+        "common_name": "Sora"
+      },
+      "Rallus limicola": {
+        "scientific_name": "Rallus limicola",
+        "common_name": "Virginia Rail"
+      },
+      "Fulica americana": {
+        "scientific_name": "Fulica americana",
+        "common_name": "American Coot"
+      },
+      "Coturnicops noveboracensis": {
+        "scientific_name": "Coturnicops noveboracensis",
+        "common_name": "Yellow Rail"
+      },
+      "Rallus crepitans": {
+        "scientific_name": "Rallus crepitans",
+        "common_name": "Clapper Rail"
+      },
+      "Rallus elegans": {
+        "scientific_name": "Rallus elegans",
+        "common_name": "King Rail"
+      },
+      "Porphyrio martinicus": {
+        "scientific_name": "Porphyrio martinicus",
+        "common_name": "Purple Gallinule"
+      },
+      "Rallus obsoletus": {
+        "scientific_name": "Rallus obsoletus",
+        "common_name": "Ridgway's Rail"
+      },
+      "Zapornia sandwichensis": {
+        "scientific_name": "Zapornia sandwichensis",
+        "common_name": "Hawaiian Rail"
+      },
+      "Zapornia palmeri": {
+        "scientific_name": "Zapornia palmeri",
+        "common_name": "Laysan Rail"
+      }
+    },
+    "Phasianidae": {
+      "Gallus gallus": {
+        "scientific_name": "Gallus gallus",
+        "common_name": "Red Junglefowl"
+      },
+      "Phasianus versicolor": {
+        "scientific_name": "Phasianus versicolor",
+        "common_name": "Green Pheasant"
+      },
+      "Pavo cristatus": {
+        "scientific_name": "Pavo cristatus",
+        "common_name": "Indian Peafowl"
+      },
+      "Pternistis erckelii": {
+        "scientific_name": "Pternistis erckelii",
+        "common_name": "Erckel's Francolin"
+      },
+      "Tympanuchus pallidicinctus": {
+        "scientific_name": "Tympanuchus pallidicinctus",
+        "common_name": "Lesser Prairie-chicken"
+      },
+      "Tetraogallus himalayensis": {
+        "scientific_name": "Tetraogallus himalayensis",
+        "common_name": "Himalayan Snowcock"
+      },
+      "Lagopus lagopus": {
+        "scientific_name": "Lagopus lagopus",
+        "common_name": "Willow Grouse"
+      },
+      "Meleagris gallopavo": {
+        "scientific_name": "Meleagris gallopavo",
+        "common_name": "Wild Turkey"
+      },
+      "Lagopus muta": {
+        "scientific_name": "Lagopus muta",
+        "common_name": "Rock Ptarmigan"
+      },
+      "Centrocercus minimus": {
+        "scientific_name": "Centrocercus minimus",
+        "common_name": "Gunnison Grouse"
+      },
+      "Perdix perdix": {
+        "scientific_name": "Perdix perdix",
+        "common_name": "Grey Partridge"
+      },
+      "Bonasa umbellus": {
+        "scientific_name": "Bonasa umbellus",
+        "common_name": "Ruffed Grouse"
+      },
+      "Dendragapus obscurus": {
+        "scientific_name": "Dendragapus obscurus",
+        "common_name": "Dusky Grouse"
+      },
+      "Lagopus leucura": {
+        "scientific_name": "Lagopus leucura",
+        "common_name": "White-tailed Ptarmigan"
+      },
+      "Centrocercus urophasianus": {
+        "scientific_name": "Centrocercus urophasianus",
+        "common_name": "Sage Grouse"
+      },
+      "Coturnix japonica": {
+        "scientific_name": "Coturnix japonica",
+        "common_name": "Japanese Quail"
+      },
+      "Dendragapus fuliginosus": {
+        "scientific_name": "Dendragapus fuliginosus",
+        "common_name": "Sooty Grouse"
+      },
+      "Lophura leucomelanos": {
+        "scientific_name": "Lophura leucomelanos",
+        "common_name": "Kalij Pheasant"
+      },
+      "Tympanuchus cupido": {
+        "scientific_name": "Tympanuchus cupido",
+        "common_name": "Greater Prairie-chicken"
+      },
+      "Tympanuchus phasianellus": {
+        "scientific_name": "Tympanuchus phasianellus",
+        "common_name": "Sharp-tailed Grouse"
+      },
+      "Falcipennis canadensis": {
+        "scientific_name": "Falcipennis canadensis",
+        "common_name": "Spruce Grouse"
+      },
+      "Alectoris chukar": {
+        "scientific_name": "Alectoris chukar",
+        "common_name": "Chukar"
+      },
+      "Phasianus colchicus": {
+        "scientific_name": "Phasianus colchicus",
+        "common_name": "Common Pheasant"
+      },
+      "Alectoris graeca": {
+        "scientific_name": "Alectoris graeca",
+        "common_name": "Rock Partridge"
+      },
+      "Coturnix coturnix": {
+        "scientific_name": "Coturnix coturnix",
+        "common_name": "Common Quail"
+      },
+      "Francolinus pondicerianus": {
+        "scientific_name": "Francolinus pondicerianus",
+        "common_name": "Grey Francolin"
+      },
+      "Falcipennis franklinii": {
+        "scientific_name": "Falcipennis franklinii",
+        "common_name": "Franklin's Grouse"
+      },
+      "Francolinus francolinus": {
+        "scientific_name": "Francolinus francolinus",
+        "common_name": "Black Francolin"
+      }
+    },
+    "Mohoidae": {
+      "Chaetoptila angustipluma": {
+        "scientific_name": "Chaetoptila angustipluma",
+        "common_name": "Kioea"
+      },
+      "Moho bishopi": {
+        "scientific_name": "Moho bishopi",
+        "common_name": "Bishop's Oo"
+      },
+      "Moho apicalis": {
+        "scientific_name": "Moho apicalis",
+        "common_name": "Oahu Oo"
+      },
+      "Moho braccatus": {
+        "scientific_name": "Moho braccatus",
+        "common_name": "Kauai Oo"
+      },
+      "Moho nobilis": {
+        "scientific_name": "Moho nobilis",
+        "common_name": "Hawaii Oo"
+      }
+    },
+    "Fringillidae": {
+      "Chlorodrepanis flava": {
+        "scientific_name": "Chlorodrepanis flava",
+        "common_name": "Oahu Amakihi"
+      },
+      "Hemignathus wilsoni": {
+        "scientific_name": "Hemignathus wilsoni",
+        "common_name": "Akiapolaau"
+      },
+      "Magumma parva": {
+        "scientific_name": "Magumma parva",
+        "common_name": "Anianiau"
+      },
+      "Hemignathus affinis": {
+        "scientific_name": "Hemignathus affinis",
+        "common_name": "Maui Nukupuu"
+      },
+      "Loxops coccineus": {
+        "scientific_name": "Loxops coccineus",
+        "common_name": "Hawaii Akepa"
+      },
+      "Akialoa obscura": {
+        "scientific_name": "Akialoa obscura",
+        "common_name": "Hawaii Akialoa"
+      },
+      "Akialoa ellisiana": {
+        "scientific_name": "Akialoa ellisiana",
+        "common_name": "Oahu Akialoa"
+      },
+      "Akialoa lanaiensis": {
+        "scientific_name": "Akialoa lanaiensis",
+        "common_name": "Lanai Akialoa"
+      },
+      "Hemignathus hanapepe": {
+        "scientific_name": "Hemignathus hanapepe",
+        "common_name": "Kauai Nukupuu"
+      },
+      "Loxops ochraceus": {
+        "scientific_name": "Loxops ochraceus",
+        "common_name": "Maui Akepa"
+      },
+      "Spinus tristis": {
+        "scientific_name": "Spinus tristis",
+        "common_name": "American Goldfinch"
+      },
+      "Chloris sinica": {
+        "scientific_name": "Chloris sinica",
+        "common_name": "Oriental Greenfinch"
+      },
+      "Himatione sanguinea": {
+        "scientific_name": "Himatione sanguinea",
+        "common_name": "Apapane"
+      },
+      "Spinus psaltria": {
+        "scientific_name": "Spinus psaltria",
+        "common_name": "Lesser Goldfinch"
+      },
+      "Psittirostra psittacea": {
+        "scientific_name": "Psittirostra psittacea",
+        "common_name": "Ou"
+      },
+      "Serinus canaria": {
+        "scientific_name": "Serinus canaria",
+        "common_name": "Island Canary"
+      },
+      "Ciridops anna": {
+        "scientific_name": "Ciridops anna",
+        "common_name": "Ula-ai-hawane"
+      },
+      "Drepanis pacifica": {
+        "scientific_name": "Drepanis pacifica",
+        "common_name": "Hawaii Mamo"
+      },
+      "Paroreomyza montana": {
+        "scientific_name": "Paroreomyza montana",
+        "common_name": "Maui Alauahio"
+      },
+      "Paroreomyza flammea": {
+        "scientific_name": "Paroreomyza flammea",
+        "common_name": "Kakawahie"
+      },
+      "Chlorodrepanis virens": {
+        "scientific_name": "Chlorodrepanis virens",
+        "common_name": "Hawaii Amakihi"
+      },
+      "Pseudonestor xanthophrys": {
+        "scientific_name": "Pseudonestor xanthophrys",
+        "common_name": "Maui Parrotbill"
+      },
+      "Haemorhous mexicanus": {
+        "scientific_name": "Haemorhous mexicanus",
+        "common_name": "House Finch"
+      },
+      "Haemorhous purpureus": {
+        "scientific_name": "Haemorhous purpureus",
+        "common_name": "Purple Finch"
+      },
+      "Leucosticte atrata": {
+        "scientific_name": "Leucosticte atrata",
+        "common_name": "Black Rosy-finch"
+      },
+      "Dysmorodrepanis munroi": {
+        "scientific_name": "Dysmorodrepanis munroi",
+        "common_name": "Lanai Hookbill"
+      },
+      "Drepanis funerea": {
+        "scientific_name": "Drepanis funerea",
+        "common_name": "Black Mamo"
+      },
+      "Loxops caeruleirostris": {
+        "scientific_name": "Loxops caeruleirostris",
+        "common_name": "Akekee"
+      },
+      "Oreomystis bairdi": {
+        "scientific_name": "Oreomystis bairdi",
+        "common_name": "Akikiki"
+      },
+      "Leucosticte tephrocotis": {
+        "scientific_name": "Leucosticte tephrocotis",
+        "common_name": "Grey-crowned Rosy-Finch"
+      },
+      "Hesperiphona vespertina": {
+        "scientific_name": "Hesperiphona vespertina",
+        "common_name": "Evening Grosbeak"
+      },
+      "Loxia leucoptera": {
+        "scientific_name": "Loxia leucoptera",
+        "common_name": "Two-barred Crossbill"
+      },
+      "Drepanis coccinea": {
+        "scientific_name": "Drepanis coccinea",
+        "common_name": "Iiwi"
+      },
+      "Hemignathus lucidus": {
+        "scientific_name": "Hemignathus lucidus",
+        "common_name": "Oahu Nukupuu"
+      },
+      "Melamprosops phaeosoma": {
+        "scientific_name": "Melamprosops phaeosoma",
+        "common_name": "Poo-uli"
+      },
+      "Spinus lawrencei": {
+        "scientific_name": "Spinus lawrencei",
+        "common_name": "Lawrence's Goldfinch"
+      },
+      "Haemorhous cassinii": {
+        "scientific_name": "Haemorhous cassinii",
+        "common_name": "Cassin's Finch"
+      },
+      "Chlorodrepanis stejnegeri": {
+        "scientific_name": "Chlorodrepanis stejnegeri",
+        "common_name": "Kauai Amakihi"
+      },
+      "Viridonia sagittirostris": {
+        "scientific_name": "Viridonia sagittirostris",
+        "common_name": "Greater Amakihi"
+      },
+      "Manucerthia mana": {
+        "scientific_name": "Manucerthia mana",
+        "common_name": "Hawaii Creeper"
+      },
+      "Rhodacanthis flaviceps": {
+        "scientific_name": "Rhodacanthis flaviceps",
+        "common_name": "Lesser Koa-finch"
+      },
+      "Leucosticte australis": {
+        "scientific_name": "Leucosticte australis",
+        "common_name": "Brown-capped Rosy-finch"
+      },
+      "Himatione fraithii": {
+        "scientific_name": "Himatione fraithii",
+        "common_name": "Laysan Honeycreeper"
+      },
+      "Telespiza cantans": {
+        "scientific_name": "Telespiza cantans",
+        "common_name": "Laysan Finch"
+      },
+      "Spinus pinus": {
+        "scientific_name": "Spinus pinus",
+        "common_name": "Pine Siskin"
+      },
+      "Acanthis flammea": {
+        "scientific_name": "Acanthis flammea",
+        "common_name": "Redpoll"
+      },
+      "Crithagra mozambica": {
+        "scientific_name": "Crithagra mozambica",
+        "common_name": "Yellow-fronted Canary"
+      },
+      "Loxioides bailleui": {
+        "scientific_name": "Loxioides bailleui",
+        "common_name": "Palila"
+      },
+      "Chloridops kona": {
+        "scientific_name": "Chloridops kona",
+        "common_name": "Kona Grosbeak"
+      },
+      "Palmeria dolei": {
+        "scientific_name": "Palmeria dolei",
+        "common_name": "Akohekohe"
+      },
+      "Loxops wolstenholmei": {
+        "scientific_name": "Loxops wolstenholmei",
+        "common_name": "Oahu Akepa"
+      },
+      "Paroreomyza maculata": {
+        "scientific_name": "Paroreomyza maculata",
+        "common_name": "Oahu Alauahio"
+      },
+      "Pinicola enucleator": {
+        "scientific_name": "Pinicola enucleator",
+        "common_name": "Pine Grosbeak"
+      },
+      "Akialoa stejnegeri": {
+        "scientific_name": "Akialoa stejnegeri",
+        "common_name": "Kauai Akialoa"
+      },
+      "Loxia curvirostra": {
+        "scientific_name": "Loxia curvirostra",
+        "common_name": "Red Crossbill"
+      },
+      "Rhodacanthis palmeri": {
+        "scientific_name": "Rhodacanthis palmeri",
+        "common_name": "Greater Koa-finch"
+      },
+      "Telespiza ultima": {
+        "scientific_name": "Telespiza ultima",
+        "common_name": "Nihoa Finch"
+      }
+    },
+    "Columbidae": {
+      "Zenaida macroura": {
+        "scientific_name": "Zenaida macroura",
+        "common_name": "Mourning Dove"
+      },
+      "Columbina passerina": {
+        "scientific_name": "Columbina passerina",
+        "common_name": "Common Ground-dove"
+      },
+      "Columbina inca": {
+        "scientific_name": "Columbina inca",
+        "common_name": "Inca Dove"
+      },
+      "Patagioenas leucocephala": {
+        "scientific_name": "Patagioenas leucocephala",
+        "common_name": "White-crowned Pigeon"
+      },
+      "Patagioenas fasciata": {
+        "scientific_name": "Patagioenas fasciata",
+        "common_name": "Northern Band-tailed Pigeon"
+      },
+      "Zenaida asiatica": {
+        "scientific_name": "Zenaida asiatica",
+        "common_name": "White-winged Dove"
+      },
+      "Leptotila verreauxi": {
+        "scientific_name": "Leptotila verreauxi",
+        "common_name": "White-tipped Dove"
+      },
+      "Ectopistes migratorius": {
+        "scientific_name": "Ectopistes migratorius",
+        "common_name": "Passenger Pigeon"
+      },
+      "Columba livia": {
+        "scientific_name": "Columba livia",
+        "common_name": "Rock Dove"
+      },
+      "Spilopelia chinensis": {
+        "scientific_name": "Spilopelia chinensis",
+        "common_name": "Eastern Spotted Dove"
+      },
+      "Streptopelia roseogrisea": {
+        "scientific_name": "Streptopelia roseogrisea",
+        "common_name": "African Collared-dove"
+      },
+      "Zenaida aurita": {
+        "scientific_name": "Zenaida aurita",
+        "common_name": "Zenaida Dove"
+      },
+      "Patagioenas flavirostris": {
+        "scientific_name": "Patagioenas flavirostris",
+        "common_name": "Red-billed Pigeon"
+      }
+    },
+    "Strigidae": {
+      "Asio flammeus": {
+        "scientific_name": "Asio flammeus",
+        "common_name": "Short-eared Owl"
+      },
+      "Athene cunicularia": {
+        "scientific_name": "Athene cunicularia",
+        "common_name": "Burrowing Owl"
+      },
+      "Surnia ulula": {
+        "scientific_name": "Surnia ulula",
+        "common_name": "Northern Hawk-owl"
+      },
+      "Aegolius funereus": {
+        "scientific_name": "Aegolius funereus",
+        "common_name": "Boreal Owl"
+      },
+      "Glaucidium brasilianum": {
+        "scientific_name": "Glaucidium brasilianum",
+        "common_name": "Ferruginous Pygmy-owl"
+      },
+      "Megascops kennicottii": {
+        "scientific_name": "Megascops kennicottii",
+        "common_name": "Western Screech-owl"
+      },
+      "Bubo scandiacus": {
+        "scientific_name": "Bubo scandiacus",
+        "common_name": "Snowy Owl"
+      },
+      "Asio otus": {
+        "scientific_name": "Asio otus",
+        "common_name": "Northern Long-eared Owl"
+      },
+      "Strix nebulosa": {
+        "scientific_name": "Strix nebulosa",
+        "common_name": "Great Grey Owl"
+      },
+      "Glaucidium californicum": {
+        "scientific_name": "Glaucidium californicum",
+        "common_name": "Northern Pygmy-owl"
+      },
+      "Micrathene whitneyi": {
+        "scientific_name": "Micrathene whitneyi",
+        "common_name": "Elf Owl"
+      },
+      "Strix varia": {
+        "scientific_name": "Strix varia",
+        "common_name": "Barred Owl"
+      },
+      "Megascops trichopsis": {
+        "scientific_name": "Megascops trichopsis",
+        "common_name": "Whiskered Screech-owl"
+      },
+      "Psiloscops flammeolus": {
+        "scientific_name": "Psiloscops flammeolus",
+        "common_name": "Flammulated Owl"
+      },
+      "Megascops asio": {
+        "scientific_name": "Megascops asio",
+        "common_name": "Eastern Screech-owl"
+      },
+      "Bubo virginianus": {
+        "scientific_name": "Bubo virginianus",
+        "common_name": "Great Horned Owl"
+      },
+      "Aegolius acadicus": {
+        "scientific_name": "Aegolius acadicus",
+        "common_name": "Northern Saw-whet Owl"
+      },
+      "Strix occidentalis": {
+        "scientific_name": "Strix occidentalis",
+        "common_name": "Spotted Owl"
+      },
+      "Glaucidium gnoma": {
+        "scientific_name": "Glaucidium gnoma",
+        "common_name": "Mountain Pygmy-owl"
+      }
+    },
+    "Scotocercidae": {
+      "Horornis diphone": {
+        "scientific_name": "Horornis diphone",
+        "common_name": "Japanese Bush-warbler"
+      },
+      "Horornis canturians": {
+        "scientific_name": "Horornis canturians",
+        "common_name": "Korean Bush-warbler"
+      }
+    },
+    "Leiotrichidae": {
+      "Garrulax caerulatus": {
+        "scientific_name": "Garrulax caerulatus",
+        "common_name": "Grey-sided Laughingthrush"
+      },
+      "Leiothrix lutea": {
+        "scientific_name": "Leiothrix lutea",
+        "common_name": "Red-billed Leiothrix"
+      }
+    },
+    "Icteridae": {
+      "Sturnella neglecta": {
+        "scientific_name": "Sturnella neglecta",
+        "common_name": "Western Meadowlark"
+      },
+      "Icterus bullockiorum": {
+        "scientific_name": "Icterus bullockiorum",
+        "common_name": "Bullock's Oriole"
+      },
+      "Icterus galbula": {
+        "scientific_name": "Icterus galbula",
+        "common_name": "Baltimore Oriole"
+      },
+      "Molothrus ater": {
+        "scientific_name": "Molothrus ater",
+        "common_name": "Brown-headed Cowbird"
+      },
+      "Icterus spurius": {
+        "scientific_name": "Icterus spurius",
+        "common_name": "Orchard Oriole"
+      },
+      "Dolichonyx oryzivorus": {
+        "scientific_name": "Dolichonyx oryzivorus",
+        "common_name": "Bobolink"
+      },
+      "Quiscalus mexicanus": {
+        "scientific_name": "Quiscalus mexicanus",
+        "common_name": "Great-tailed Grackle"
+      },
+      "Euphagus carolinus": {
+        "scientific_name": "Euphagus carolinus",
+        "common_name": "Rusty Blackbird"
+      },
+      "Icterus graduacauda": {
+        "scientific_name": "Icterus graduacauda",
+        "common_name": "Audubon's Oriole"
+      },
+      "Molothrus bonariensis": {
+        "scientific_name": "Molothrus bonariensis",
+        "common_name": "Shiny Cowbird"
+      },
+      "Molothrus aeneus": {
+        "scientific_name": "Molothrus aeneus",
+        "common_name": "Bronzed Cowbird"
+      },
+      "Agelaius phoeniceus": {
+        "scientific_name": "Agelaius phoeniceus",
+        "common_name": "Red-winged Blackbird"
+      },
+      "Icteria virens": {
+        "scientific_name": "Icteria virens",
+        "common_name": "Yellow-breasted Chat"
+      },
+      "Sturnella magna": {
+        "scientific_name": "Sturnella magna",
+        "common_name": "Eastern Meadowlark"
+      },
+      "Euphagus cyanocephalus": {
+        "scientific_name": "Euphagus cyanocephalus",
+        "common_name": "Brewer's Blackbird"
+      },
+      "Icterus cucullatus": {
+        "scientific_name": "Icterus cucullatus",
+        "common_name": "Hooded Oriole"
+      },
+      "Icterus parisorum": {
+        "scientific_name": "Icterus parisorum",
+        "common_name": "Scott's Oriole"
+      },
+      "Agelaius tricolor": {
+        "scientific_name": "Agelaius tricolor",
+        "common_name": "Tricolored Blackbird"
+      },
+      "Xanthocephalus xanthocephalus": {
+        "scientific_name": "Xanthocephalus xanthocephalus",
+        "common_name": "Yellow-headed Blackbird"
+      },
+      "Icterus gularis": {
+        "scientific_name": "Icterus gularis",
+        "common_name": "Altamira Oriole"
+      },
+      "Quiscalus quiscula": {
+        "scientific_name": "Quiscalus quiscula",
+        "common_name": "Common Grackle"
+      },
+      "Quiscalus major": {
+        "scientific_name": "Quiscalus major",
+        "common_name": "Boat-tailed Grackle"
+      },
+      "Icterus pectoralis": {
+        "scientific_name": "Icterus pectoralis",
+        "common_name": "Spot-breasted Oriole"
+      }
+    },
+    "Estrildidae": {
+      "Uraeginthus bengalus": {
+        "scientific_name": "Uraeginthus bengalus",
+        "common_name": "Red-cheeked Cordon-bleu"
+      },
+      "Estrilda melpoda": {
+        "scientific_name": "Estrilda melpoda",
+        "common_name": "Orange-cheeked Waxbill"
+      },
+      "Lonchura atricapilla": {
+        "scientific_name": "Lonchura atricapilla",
+        "common_name": "Chestnut Munia"
+      },
+      "Estrilda coerulescens": {
+        "scientific_name": "Estrilda coerulescens",
+        "common_name": "Lavender Waxbill"
+      },
+      "Estrilda troglodytes": {
+        "scientific_name": "Estrilda troglodytes",
+        "common_name": "Black-rumped Waxbill"
+      },
+      "Estrilda astrild": {
+        "scientific_name": "Estrilda astrild",
+        "common_name": "Common Waxbill"
+      },
+      "Lonchura oryzivora": {
+        "scientific_name": "Lonchura oryzivora",
+        "common_name": "Java Sparrow"
+      },
+      "Euodice malabarica": {
+        "scientific_name": "Euodice malabarica",
+        "common_name": "Indian Silverbill"
+      },
+      "Lonchura malacca": {
+        "scientific_name": "Lonchura malacca",
+        "common_name": "Tricoloured Munia"
+      }
+    },
+    "Ardeidae": {
+      "Ixobrychus exilis": {
+        "scientific_name": "Ixobrychus exilis",
+        "common_name": "Least Bittern"
+      },
+      "Egretta rufescens": {
+        "scientific_name": "Egretta rufescens",
+        "common_name": "Reddish Egret"
+      },
+      "Nycticorax nycticorax": {
+        "scientific_name": "Nycticorax nycticorax",
+        "common_name": "Black-crowned Night-heron"
+      },
+      "Egretta thula": {
+        "scientific_name": "Egretta thula",
+        "common_name": "Snowy Egret"
+      },
+      "Nyctanassa violacea": {
+        "scientific_name": "Nyctanassa violacea",
+        "common_name": "Yellow-crowned Night-heron"
+      },
+      "Ardea alba": {
+        "scientific_name": "Ardea alba",
+        "common_name": "Great White Egret"
+      },
+      "Egretta tricolor": {
+        "scientific_name": "Egretta tricolor",
+        "common_name": "Tricolored Heron"
+      },
+      "Botaurus lentiginosus": {
+        "scientific_name": "Botaurus lentiginosus",
+        "common_name": "American Bittern"
+      },
+      "Ardea herodias": {
+        "scientific_name": "Ardea herodias",
+        "common_name": "Great Blue Heron"
+      },
+      "Bubulcus ibis": {
+        "scientific_name": "Bubulcus ibis",
+        "common_name": "Cattle Egret"
+      },
+      "Egretta gularis": {
+        "scientific_name": "Egretta gularis",
+        "common_name": "Western Reef-egret"
+      },
+      "Butorides striata": {
+        "scientific_name": "Butorides striata",
+        "common_name": "Green-backed Heron"
+      },
+      "Egretta caerulea": {
+        "scientific_name": "Egretta caerulea",
+        "common_name": "Little Blue Heron"
+      },
+      "Ardea occidentalis": {
+        "scientific_name": "Ardea occidentalis",
+        "common_name": "Great White Heron"
+      }
+    },
+    "Cuculidae": {
+      "Crotophaga sulcirostris": {
+        "scientific_name": "Crotophaga sulcirostris",
+        "common_name": "Groove-billed Ani"
+      },
+      "Coccyzus americanus": {
+        "scientific_name": "Coccyzus americanus",
+        "common_name": "Yellow-billed Cuckoo"
+      },
+      "Geococcyx californianus": {
+        "scientific_name": "Geococcyx californianus",
+        "common_name": "Greater Roadrunner"
+      },
+      "Coccyzus erythropthalmus": {
+        "scientific_name": "Coccyzus erythropthalmus",
+        "common_name": "Black-billed Cuckoo"
+      },
+      "Crotophaga ani": {
+        "scientific_name": "Crotophaga ani",
+        "common_name": "Smooth-billed Ani"
+      },
+      "Coccyzus minor": {
+        "scientific_name": "Coccyzus minor",
+        "common_name": "Mangrove Cuckoo"
+      }
+    },
+    "Accipitridae": {
+      "Buteo plagiatus": {
+        "scientific_name": "Buteo plagiatus",
+        "common_name": "Grey Hawk"
+      },
+      "Buteo swainsoni": {
+        "scientific_name": "Buteo swainsoni",
+        "common_name": "Swainson's Hawk"
+      },
+      "Accipiter striatus": {
+        "scientific_name": "Accipiter striatus",
+        "common_name": "Sharp-shinned Hawk"
+      },
+      "Elanoides forficatus": {
+        "scientific_name": "Elanoides forficatus",
+        "common_name": "Swallow-tailed Kite"
+      },
+      "Ictinia mississippiensis": {
+        "scientific_name": "Ictinia mississippiensis",
+        "common_name": "Mississippi Kite"
+      },
+      "Buteo lagopus": {
+        "scientific_name": "Buteo lagopus",
+        "common_name": "Rough-legged Buzzard"
+      },
+      "Accipiter cooperii": {
+        "scientific_name": "Accipiter cooperii",
+        "common_name": "Cooper's Hawk"
+      },
+      "Buteo jamaicensis": {
+        "scientific_name": "Buteo jamaicensis",
+        "common_name": "Red-tailed Hawk"
+      },
+      "Buteo regalis": {
+        "scientific_name": "Buteo regalis",
+        "common_name": "Ferruginous Hawk"
+      },
+      "Buteo lineatus": {
+        "scientific_name": "Buteo lineatus",
+        "common_name": "Red-shouldered Hawk"
+      },
+      "Haliaeetus leucocephalus": {
+        "scientific_name": "Haliaeetus leucocephalus",
+        "common_name": "Bald Eagle"
+      },
+      "Aquila chrysaetos": {
+        "scientific_name": "Aquila chrysaetos",
+        "common_name": "Golden Eagle"
+      },
+      "Buteo platypterus": {
+        "scientific_name": "Buteo platypterus",
+        "common_name": "Broad-winged Hawk"
+      },
+      "Geranoaetus albicaudatus": {
+        "scientific_name": "Geranoaetus albicaudatus",
+        "common_name": "White-tailed Hawk"
+      },
+      "Circus hudsonius": {
+        "scientific_name": "Circus hudsonius",
+        "common_name": "Northern Harrier"
+      },
+      "Haliaeetus albicilla": {
+        "scientific_name": "Haliaeetus albicilla",
+        "common_name": "White-tailed Sea-eagle"
+      },
+      "Rostrhamus sociabilis": {
+        "scientific_name": "Rostrhamus sociabilis",
+        "common_name": "Snail Kite"
+      },
+      "Elanus leucurus": {
+        "scientific_name": "Elanus leucurus",
+        "common_name": "White-tailed Kite"
+      },
+      "Parabuteo unicinctus": {
+        "scientific_name": "Parabuteo unicinctus",
+        "common_name": "Harris's Hawk"
+      },
+      "Chondrohierax uncinatus": {
+        "scientific_name": "Chondrohierax uncinatus",
+        "common_name": "Hook-billed Kite"
+      },
+      "Buteo solitarius": {
+        "scientific_name": "Buteo solitarius",
+        "common_name": "Hawaiian Hawk"
+      },
+      "Accipiter gentilis": {
+        "scientific_name": "Accipiter gentilis",
+        "common_name": "Northern Goshawk"
+      },
+      "Buteogallus anthracinus": {
+        "scientific_name": "Buteogallus anthracinus",
+        "common_name": "Common Black Hawk"
+      },
+      "Buteo albonotatus": {
+        "scientific_name": "Buteo albonotatus",
+        "common_name": "Zone-tailed Hawk"
+      },
+      "Buteo brachyurus": {
+        "scientific_name": "Buteo brachyurus",
+        "common_name": "Short-tailed Hawk"
+      }
+    },
+    "Ciconiidae": {
+      "Mycteria americana": {
+        "scientific_name": "Mycteria americana",
+        "common_name": "Wood Stork"
+      }
+    },
+    "Laridae": {
+      "Larus livens": {
+        "scientific_name": "Larus livens",
+        "common_name": "Yellow-footed Gull"
+      },
+      "Thalasseus sandvicensis": {
+        "scientific_name": "Thalasseus sandvicensis",
+        "common_name": "Sandwich Tern"
+      },
+      "Gygis alba": {
+        "scientific_name": "Gygis alba",
+        "common_name": "Common White Tern"
+      },
+      "Hydroprogne caspia": {
+        "scientific_name": "Hydroprogne caspia",
+        "common_name": "Caspian Tern"
+      },
+      "Larus canus": {
+        "scientific_name": "Larus canus",
+        "common_name": "Mew Gull"
+      },
+      "Larus glaucoides": {
+        "scientific_name": "Larus glaucoides",
+        "common_name": "Iceland Gull"
+      },
+      "Larus marinus": {
+        "scientific_name": "Larus marinus",
+        "common_name": "Great Black-backed Gull"
+      },
+      "Thalasseus maximus": {
+        "scientific_name": "Thalasseus maximus",
+        "common_name": "Royal Tern"
+      },
+      "Sterna forsteri": {
+        "scientific_name": "Sterna forsteri",
+        "common_name": "Forster's Tern"
+      },
+      "Rhodostethia rosea": {
+        "scientific_name": "Rhodostethia rosea",
+        "common_name": "Ross's Gull"
+      },
+      "Onychoprion anaethetus": {
+        "scientific_name": "Onychoprion anaethetus",
+        "common_name": "Bridled Tern"
+      },
+      "Larus atricilla": {
+        "scientific_name": "Larus atricilla",
+        "common_name": "Laughing Gull"
+      },
+      "Rynchops niger": {
+        "scientific_name": "Rynchops niger",
+        "common_name": "Black Skimmer"
+      },
+      "Larus smithsonianus": {
+        "scientific_name": "Larus smithsonianus",
+        "common_name": "Arctic Herring Gull"
+      },
+      "Hydrocoloeus minutus": {
+        "scientific_name": "Hydrocoloeus minutus",
+        "common_name": "Little Gull"
+      },
+      "Larus delawarensis": {
+        "scientific_name": "Larus delawarensis",
+        "common_name": "Ring-billed Gull"
+      },
+      "Larus pipixcan": {
+        "scientific_name": "Larus pipixcan",
+        "common_name": "Franklin's Gull"
+      },
+      "Larus californicus": {
+        "scientific_name": "Larus californicus",
+        "common_name": "California Gull"
+      },
+      "Larus philadelphia": {
+        "scientific_name": "Larus philadelphia",
+        "common_name": "Bonaparte's Gull"
+      },
+      "Larus schistisagus": {
+        "scientific_name": "Larus schistisagus",
+        "common_name": "Slaty-backed Gull"
+      },
+      "Thalasseus elegans": {
+        "scientific_name": "Thalasseus elegans",
+        "common_name": "Elegant Tern"
+      },
+      "Larus heermanni": {
+        "scientific_name": "Larus heermanni",
+        "common_name": "Heermann's Gull"
+      },
+      "Larus occidentalis": {
+        "scientific_name": "Larus occidentalis",
+        "common_name": "Western Gull"
+      },
+      "Larus ridibundus": {
+        "scientific_name": "Larus ridibundus",
+        "common_name": "Black-headed Gull"
+      },
+      "Sternula antillarum": {
+        "scientific_name": "Sternula antillarum",
+        "common_name": "Least Tern"
+      },
+      "Larus hyperboreus": {
+        "scientific_name": "Larus hyperboreus",
+        "common_name": "Glaucous Gull"
+      },
+      "Sterna hirundo": {
+        "scientific_name": "Sterna hirundo",
+        "common_name": "Common Tern"
+      },
+      "Sternula albifrons": {
+        "scientific_name": "Sternula albifrons",
+        "common_name": "Little Tern"
+      },
+      "Larus glaucescens": {
+        "scientific_name": "Larus glaucescens",
+        "common_name": "Glaucous-winged Gull"
+      },
+      "Chlidonias niger": {
+        "scientific_name": "Chlidonias niger",
+        "common_name": "Black Tern"
+      },
+      "Rissa tridactyla": {
+        "scientific_name": "Rissa tridactyla",
+        "common_name": "Black-legged Kittiwake"
+      },
+      "Onychoprion aleuticus": {
+        "scientific_name": "Onychoprion aleuticus",
+        "common_name": "Aleutian Tern"
+      },
+      "Rissa brevirostris": {
+        "scientific_name": "Rissa brevirostris",
+        "common_name": "Red-legged Kittiwake"
+      },
+      "Pagophila eburnea": {
+        "scientific_name": "Pagophila eburnea",
+        "common_name": "Ivory Gull"
+      },
+      "Sterna paradisaea": {
+        "scientific_name": "Sterna paradisaea",
+        "common_name": "Arctic Tern"
+      },
+      "Gelochelidon nilotica": {
+        "scientific_name": "Gelochelidon nilotica",
+        "common_name": "Common Gull-billed Tern"
+      },
+      "Larus fuscus": {
+        "scientific_name": "Larus fuscus",
+        "common_name": "Lesser Black-backed Gull"
+      },
+      "Onychoprion lunatus": {
+        "scientific_name": "Onychoprion lunatus",
+        "common_name": "Grey-backed Tern"
+      },
+      "Anous ceruleus": {
+        "scientific_name": "Anous ceruleus",
+        "common_name": "Blue Noddy"
+      },
+      "Anous stolidus": {
+        "scientific_name": "Anous stolidus",
+        "common_name": "Brown Noddy"
+      },
+      "Anous minutus": {
+        "scientific_name": "Anous minutus",
+        "common_name": "Black Noddy"
+      },
+      "Onychoprion fuscatus": {
+        "scientific_name": "Onychoprion fuscatus",
+        "common_name": "Sooty Tern"
+      },
+      "Sterna dougallii": {
+        "scientific_name": "Sterna dougallii",
+        "common_name": "Roseate Tern"
+      },
+      "Xema sabini": {
+        "scientific_name": "Xema sabini",
+        "common_name": "Sabine's Gull"
+      }
+    },
+    "Trochilidae": {
+      "Selasphorus sasin": {
+        "scientific_name": "Selasphorus sasin",
+        "common_name": "Allen's Hummingbird"
+      },
+      "Archilochus colubris": {
+        "scientific_name": "Archilochus colubris",
+        "common_name": "Ruby-throated Hummingbird"
+      },
+      "Archilochus alexandri": {
+        "scientific_name": "Archilochus alexandri",
+        "common_name": "Black-chinned Hummingbird"
+      },
+      "Selasphorus calliope": {
+        "scientific_name": "Selasphorus calliope",
+        "common_name": "Calliope Hummingbird"
+      },
+      "Selasphorus rufus": {
+        "scientific_name": "Selasphorus rufus",
+        "common_name": "Rufous Hummingbird"
+      },
+      "Calypte costae": {
+        "scientific_name": "Calypte costae",
+        "common_name": "Costa's Hummingbird"
+      },
+      "Selasphorus platycercus": {
+        "scientific_name": "Selasphorus platycercus",
+        "common_name": "Broad-tailed Hummingbird"
+      },
+      "Eugenes fulgens": {
+        "scientific_name": "Eugenes fulgens",
+        "common_name": "Magnificent Hummingbird"
+      },
+      "Lampornis clemenciae": {
+        "scientific_name": "Lampornis clemenciae",
+        "common_name": "Blue-throated Hummingbird"
+      },
+      "Amazilia violiceps": {
+        "scientific_name": "Amazilia violiceps",
+        "common_name": "Violet-crowned Hummingbird"
+      },
+      "Amazilia yucatanensis": {
+        "scientific_name": "Amazilia yucatanensis",
+        "common_name": "Buff-bellied Hummingbird"
+      },
+      "Calypte anna": {
+        "scientific_name": "Calypte anna",
+        "common_name": "Anna's Hummingbird"
+      },
+      "Calothorax lucifer": {
+        "scientific_name": "Calothorax lucifer",
+        "common_name": "Lucifer Hummingbird"
+      },
+      "Cynanthus latirostris": {
+        "scientific_name": "Cynanthus latirostris",
+        "common_name": "Broad-billed Hummingbird"
+      }
+    },
+    "Hydrobatidae": {
+      "Hydrobates homochroa": {
+        "scientific_name": "Hydrobates homochroa",
+        "common_name": "Ashy Storm-petrel"
+      },
+      "Hydrobates furcatus": {
+        "scientific_name": "Hydrobates furcatus",
+        "common_name": "Fork-tailed Storm-petrel"
+      },
+      "Hydrobates melania": {
+        "scientific_name": "Hydrobates melania",
+        "common_name": "Black Storm-petrel"
+      },
+      "Hydrobates microsoma": {
+        "scientific_name": "Hydrobates microsoma",
+        "common_name": "Least Storm-petrel"
+      },
+      "Hydrobates socorroensis": {
+        "scientific_name": "Hydrobates socorroensis",
+        "common_name": "Townsend's Storm-petrel"
+      },
+      "Hydrobates tristrami": {
+        "scientific_name": "Hydrobates tristrami",
+        "common_name": "Tristram's Storm-petrel"
+      },
+      "Hydrobates jabejabe": {
+        "scientific_name": "Hydrobates jabejabe",
+        "common_name": "Cape Verde Storm-petrel"
+      },
+      "Hydrobates castro": {
+        "scientific_name": "Hydrobates castro",
+        "common_name": "Band-rumped Storm-petrel"
+      },
+      "Hydrobates leucorhous": {
+        "scientific_name": "Hydrobates leucorhous",
+        "common_name": "Leach's Storm-petrel"
+      }
+    },
+    "Picidae": {
+      "Sphyrapicus ruber": {
+        "scientific_name": "Sphyrapicus ruber",
+        "common_name": "Red-breasted Sapsucker"
+      },
+      "Picoides tridactylus": {
+        "scientific_name": "Picoides tridactylus",
+        "common_name": "Three-toed Woodpecker"
+      },
+      "Sphyrapicus varius": {
+        "scientific_name": "Sphyrapicus varius",
+        "common_name": "Yellow-bellied Sapsucker"
+      },
+      "Campephilus principalis": {
+        "scientific_name": "Campephilus principalis",
+        "common_name": "Ivory-billed Woodpecker"
+      },
+      "Dryobates pubescens": {
+        "scientific_name": "Dryobates pubescens",
+        "common_name": "Downy Woodpecker"
+      },
+      "Picoides arcticus": {
+        "scientific_name": "Picoides arcticus",
+        "common_name": "Black-backed Woodpecker"
+      },
+      "Sphyrapicus thyroideus": {
+        "scientific_name": "Sphyrapicus thyroideus",
+        "common_name": "Williamson's Sapsucker"
+      },
+      "Colaptes cafer": {
+        "scientific_name": "Colaptes cafer",
+        "common_name": "Red-shafted Flicker"
+      },
+      "Leuconotopicus albolarvatus": {
+        "scientific_name": "Leuconotopicus albolarvatus",
+        "common_name": "White-headed Woodpecker"
+      },
+      "Colaptes chrysoides": {
+        "scientific_name": "Colaptes chrysoides",
+        "common_name": "Gilded Flicker"
+      },
+      "Dryobates nuttallii": {
+        "scientific_name": "Dryobates nuttallii",
+        "common_name": "Nuttall's Woodpecker"
+      },
+      "Melanerpes aurifrons": {
+        "scientific_name": "Melanerpes aurifrons",
+        "common_name": "Golden-fronted Woodpecker"
+      },
+      "Melanerpes lewis": {
+        "scientific_name": "Melanerpes lewis",
+        "common_name": "Lewis's Woodpecker"
+      },
+      "Sphyrapicus nuchalis": {
+        "scientific_name": "Sphyrapicus nuchalis",
+        "common_name": "Red-naped Sapsucker"
+      },
+      "Melanerpes erythrocephalus": {
+        "scientific_name": "Melanerpes erythrocephalus",
+        "common_name": "Red-headed Woodpecker"
+      },
+      "Leuconotopicus villosus": {
+        "scientific_name": "Leuconotopicus villosus",
+        "common_name": "Hairy Woodpecker"
+      },
+      "Colaptes auratus": {
+        "scientific_name": "Colaptes auratus",
+        "common_name": "Yellow-shafted Flicker"
+      },
+      "Melanerpes formicivorus": {
+        "scientific_name": "Melanerpes formicivorus",
+        "common_name": "Acorn Woodpecker"
+      },
+      "Hylatomus pileatus": {
+        "scientific_name": "Hylatomus pileatus",
+        "common_name": "Pileated Woodpecker"
+      },
+      "Leuconotopicus arizonae": {
+        "scientific_name": "Leuconotopicus arizonae",
+        "common_name": "Arizona Woodpecker"
+      },
+      "Melanerpes carolinus": {
+        "scientific_name": "Melanerpes carolinus",
+        "common_name": "Red-bellied Woodpecker"
+      },
+      "Dryobates scalaris": {
+        "scientific_name": "Dryobates scalaris",
+        "common_name": "Ladder-backed Woodpecker"
+      },
+      "Melanerpes uropygialis": {
+        "scientific_name": "Melanerpes uropygialis",
+        "common_name": "Gila Woodpecker"
+      },
+      "Leuconotopicus borealis": {
+        "scientific_name": "Leuconotopicus borealis",
+        "common_name": "Red-cockaded Woodpecker"
+      }
+    },
+    "Tyrannidae": {
+      "Tyrannus vociferans": {
+        "scientific_name": "Tyrannus vociferans",
+        "common_name": "Cassin's Kingbird"
+      },
+      "Tyrannus tyrannus": {
+        "scientific_name": "Tyrannus tyrannus",
+        "common_name": "Eastern Kingbird"
+      },
+      "Sayornis phoebe": {
+        "scientific_name": "Sayornis phoebe",
+        "common_name": "Eastern Phoebe"
+      },
+      "Pitangus sulphuratus": {
+        "scientific_name": "Pitangus sulphuratus",
+        "common_name": "Great Kiskadee"
+      },
+      "Empidonax alnorum": {
+        "scientific_name": "Empidonax alnorum",
+        "common_name": "Alder Flycatcher"
+      },
+      "Contopus sordidulus": {
+        "scientific_name": "Contopus sordidulus",
+        "common_name": "Western Wood-pewee"
+      },
+      "Empidonax oberholseri": {
+        "scientific_name": "Empidonax oberholseri",
+        "common_name": "American Dusky Flycatcher"
+      },
+      "Empidonax traillii": {
+        "scientific_name": "Empidonax traillii",
+        "common_name": "Willow Flycatcher"
+      },
+      "Sayornis nigricans": {
+        "scientific_name": "Sayornis nigricans",
+        "common_name": "Black Phoebe"
+      },
+      "Contopus cooperi": {
+        "scientific_name": "Contopus cooperi",
+        "common_name": "Olive-sided Flycatcher"
+      },
+      "Contopus virens": {
+        "scientific_name": "Contopus virens",
+        "common_name": "Eastern Wood-pewee"
+      },
+      "Empidonax minimus": {
+        "scientific_name": "Empidonax minimus",
+        "common_name": "Least Flycatcher"
+      },
+      "Empidonax wrightii": {
+        "scientific_name": "Empidonax wrightii",
+        "common_name": "American Grey Flycatcher"
+      },
+      "Sayornis saya": {
+        "scientific_name": "Sayornis saya",
+        "common_name": "Say's Phoebe"
+      },
+      "Camptostoma imberbe": {
+        "scientific_name": "Camptostoma imberbe",
+        "common_name": "Northern Beardless Tyrannulet"
+      },
+      "Empidonax fulvifrons": {
+        "scientific_name": "Empidonax fulvifrons",
+        "common_name": "Buff-breasted Flycatcher"
+      },
+      "Empidonax hammondii": {
+        "scientific_name": "Empidonax hammondii",
+        "common_name": "Hammond's Flycatcher"
+      },
+      "Myiarchus tyrannulus": {
+        "scientific_name": "Myiarchus tyrannulus",
+        "common_name": "Brown-crested Flycatcher"
+      },
+      "Empidonax flaviventris": {
+        "scientific_name": "Empidonax flaviventris",
+        "common_name": "Yellow-bellied Flycatcher"
+      },
+      "Empidonax virescens": {
+        "scientific_name": "Empidonax virescens",
+        "common_name": "Acadian Flycatcher"
+      },
+      "Myiarchus cinerascens": {
+        "scientific_name": "Myiarchus cinerascens",
+        "common_name": "Ash-throated Flycatcher"
+      },
+      "Empidonax occidentalis": {
+        "scientific_name": "Empidonax occidentalis",
+        "common_name": "Cordilleran Flycatcher"
+      },
+      "Contopus pertinax": {
+        "scientific_name": "Contopus pertinax",
+        "common_name": "Greater Pewee"
+      },
+      "Tyrannus couchii": {
+        "scientific_name": "Tyrannus couchii",
+        "common_name": "Couch's Kingbird"
+      },
+      "Tyrannus crassirostris": {
+        "scientific_name": "Tyrannus crassirostris",
+        "common_name": "Thick-billed Kingbird"
+      },
+      "Tyrannus forficatus": {
+        "scientific_name": "Tyrannus forficatus",
+        "common_name": "Scissor-tailed Flycatcher"
+      },
+      "Tyrannus verticalis": {
+        "scientific_name": "Tyrannus verticalis",
+        "common_name": "Western Kingbird"
+      },
+      "Myiarchus crinitus": {
+        "scientific_name": "Myiarchus crinitus",
+        "common_name": "Great Crested Flycatcher"
+      },
+      "Myiodynastes luteiventris": {
+        "scientific_name": "Myiodynastes luteiventris",
+        "common_name": "Sulphur-bellied Flycatcher"
+      },
+      "Pyrocephalus rubinus": {
+        "scientific_name": "Pyrocephalus rubinus",
+        "common_name": "Common Vermilion Flycatcher"
+      },
+      "Empidonax difficilis": {
+        "scientific_name": "Empidonax difficilis",
+        "common_name": "Pacific-slope Flycatcher"
+      },
+      "Tyrannus melancholicus": {
+        "scientific_name": "Tyrannus melancholicus",
+        "common_name": "Tropical Kingbird"
+      },
+      "Myiarchus tuberculifer": {
+        "scientific_name": "Myiarchus tuberculifer",
+        "common_name": "Dusky-capped Flycatcher"
+      },
+      "Tyrannus dominicensis": {
+        "scientific_name": "Tyrannus dominicensis",
+        "common_name": "Grey Kingbird"
+      }
+    },
+    "Passerellidae": {
+      "Artemisiospiza belli": {
+        "scientific_name": "Artemisiospiza belli",
+        "common_name": "Bell's Sparrow"
+      },
+      "Spizella wortheni": {
+        "scientific_name": "Spizella wortheni",
+        "common_name": "Worthen's Sparrow"
+      },
+      "Ammodramus savannarum": {
+        "scientific_name": "Ammodramus savannarum",
+        "common_name": "Grasshopper Sparrow"
+      },
+      "Passerculus sandwichensis": {
+        "scientific_name": "Passerculus sandwichensis",
+        "common_name": "Savannah Sparrow"
+      },
+      "Passerella iliaca": {
+        "scientific_name": "Passerella iliaca",
+        "common_name": "Red Fox-sparrow"
+      },
+      "Chondestes grammacus": {
+        "scientific_name": "Chondestes grammacus",
+        "common_name": "Lark Sparrow"
+      },
+      "Zonotrichia atricapilla": {
+        "scientific_name": "Zonotrichia atricapilla",
+        "common_name": "Golden-crowned Sparrow"
+      },
+      "Zonotrichia leucophrys": {
+        "scientific_name": "Zonotrichia leucophrys",
+        "common_name": "White-crowned Sparrow"
+      },
+      "Passerella arborea": {
+        "scientific_name": "Passerella arborea",
+        "common_name": "American Tree Sparrow"
+      },
+      "Spizella breweri": {
+        "scientific_name": "Spizella breweri",
+        "common_name": "Brewer's Sparrow"
+      },
+      "Aimophila ruficeps": {
+        "scientific_name": "Aimophila ruficeps",
+        "common_name": "Rufous-crowned Sparrow"
+      },
+      "Zonotrichia albicollis": {
+        "scientific_name": "Zonotrichia albicollis",
+        "common_name": "White-throated Sparrow"
+      },
+      "Junco phaeonotus": {
+        "scientific_name": "Junco phaeonotus",
+        "common_name": "Yellow-eyed Junco"
+      },
+      "Melozone aberti": {
+        "scientific_name": "Melozone aberti",
+        "common_name": "Abert's Towhee"
+      },
+      "Pooecetes gramineus": {
+        "scientific_name": "Pooecetes gramineus",
+        "common_name": "Vesper Sparrow"
+      },
+      "Pipilo erythrophthalmus": {
+        "scientific_name": "Pipilo erythrophthalmus",
+        "common_name": "Eastern Towhee"
+      },
+      "Pipilo maculatus": {
+        "scientific_name": "Pipilo maculatus",
+        "common_name": "Spotted Towhee"
+      },
+      "Junco hyemalis": {
+        "scientific_name": "Junco hyemalis",
+        "common_name": "Dark-eyed Junco"
+      },
+      "Calamospiza melanocorys": {
+        "scientific_name": "Calamospiza melanocorys",
+        "common_name": "Lark Bunting"
+      },
+      "Melospiza georgiana": {
+        "scientific_name": "Melospiza georgiana",
+        "common_name": "Swamp Sparrow"
+      },
+      "Spizella passerina": {
+        "scientific_name": "Spizella passerina",
+        "common_name": "Chipping Sparrow"
+      },
+      "Ammospiza nelsoni": {
+        "scientific_name": "Ammospiza nelsoni",
+        "common_name": "Nelson's Sparrow"
+      },
+      "Passerella megarhyncha": {
+        "scientific_name": "Passerella megarhyncha",
+        "common_name": "Thick-billed Fox-sparrow"
+      },
+      "Passerella unalaschcensis": {
+        "scientific_name": "Passerella unalaschcensis",
+        "common_name": "Sooty Fox-sparrow"
+      },
+      "Artemisiospiza nevadensis": {
+        "scientific_name": "Artemisiospiza nevadensis",
+        "common_name": "Sagebrush Sparrow"
+      },
+      "Passerella schistacea": {
+        "scientific_name": "Passerella schistacea",
+        "common_name": "Slate-colored Fox-sparrow"
+      },
+      "Melospiza lincolnii": {
+        "scientific_name": "Melospiza lincolnii",
+        "common_name": "Lincoln's Sparrow"
+      },
+      "Melospiza melodia": {
+        "scientific_name": "Melospiza melodia",
+        "common_name": "Song Sparrow"
+      },
+      "Melozone crissalis": {
+        "scientific_name": "Melozone crissalis",
+        "common_name": "California Towhee"
+      },
+      "Peucaea carpalis": {
+        "scientific_name": "Peucaea carpalis",
+        "common_name": "Rufous-winged Sparrow"
+      },
+      "Pipilo chlorurus": {
+        "scientific_name": "Pipilo chlorurus",
+        "common_name": "Green-tailed Towhee"
+      },
+      "Passerculus bairdii": {
+        "scientific_name": "Passerculus bairdii",
+        "common_name": "Baird's Sparrow"
+      },
+      "Ammospiza leconteii": {
+        "scientific_name": "Ammospiza leconteii",
+        "common_name": "Le Conte's Sparrow"
+      },
+      "Amphispiza quinquestriata": {
+        "scientific_name": "Amphispiza quinquestriata",
+        "common_name": "Five-striped Sparrow"
+      },
+      "Spizella atrogularis": {
+        "scientific_name": "Spizella atrogularis",
+        "common_name": "Black-chinned Sparrow"
+      },
+      "Ammospiza caudacuta": {
+        "scientific_name": "Ammospiza caudacuta",
+        "common_name": "Saltmarsh Sparrow"
+      },
+      "Passerculus henslowii": {
+        "scientific_name": "Passerculus henslowii",
+        "common_name": "Henslow's Sparrow"
+      },
+      "Spizella pallida": {
+        "scientific_name": "Spizella pallida",
+        "common_name": "Clay-colored Sparrow"
+      },
+      "Zonotrichia querula": {
+        "scientific_name": "Zonotrichia querula",
+        "common_name": "Harris's Sparrow"
+      },
+      "Arremonops rufivirgatus": {
+        "scientific_name": "Arremonops rufivirgatus",
+        "common_name": "Olive Sparrow"
+      },
+      "Peucaea cassinii": {
+        "scientific_name": "Peucaea cassinii",
+        "common_name": "Cassin's Sparrow"
+      },
+      "Passerculus rostratus": {
+        "scientific_name": "Passerculus rostratus",
+        "common_name": "Large-billed Sparrow"
+      },
+      "Melozone fusca": {
+        "scientific_name": "Melozone fusca",
+        "common_name": "Canyon Towhee"
+      },
+      "Ammospiza maritima": {
+        "scientific_name": "Ammospiza maritima",
+        "common_name": "Seaside Sparrow"
+      },
+      "Spizella pusilla": {
+        "scientific_name": "Spizella pusilla",
+        "common_name": "Field Sparrow"
+      },
+      "Passerculus guttatus": {
+        "scientific_name": "Passerculus guttatus",
+        "common_name": "Belding's Sparrow"
+      },
+      "Amphispiza bilineata": {
+        "scientific_name": "Amphispiza bilineata",
+        "common_name": "Black-throated Sparrow"
+      },
+      "Peucaea aestivalis": {
+        "scientific_name": "Peucaea aestivalis",
+        "common_name": "Bachman's Sparrow"
+      },
+      "Peucaea botterii": {
+        "scientific_name": "Peucaea botterii",
+        "common_name": "Botteri's Sparrow"
+      }
+    },
+    "Psittacidae": {
+      "Amazona finschi": {
+        "scientific_name": "Amazona finschi",
+        "common_name": "Lilac-crowned Amazon"
+      },
+      "Amazona amazonica": {
+        "scientific_name": "Amazona amazonica",
+        "common_name": "Orange-winged Amazon"
+      },
+      "Amazona autumnalis": {
+        "scientific_name": "Amazona autumnalis",
+        "common_name": "Red-lored Amazon"
+      },
+      "Amazona viridigenalis": {
+        "scientific_name": "Amazona viridigenalis",
+        "common_name": "Red-crowned Amazon"
+      },
+      "Brotogeris versicolurus": {
+        "scientific_name": "Brotogeris versicolurus",
+        "common_name": "White-winged Parakeet"
+      },
+      "Brotogeris chiriri": {
+        "scientific_name": "Brotogeris chiriri",
+        "common_name": "Yellow-chevroned Parakeet"
+      },
+      "Aratinga nenday": {
+        "scientific_name": "Aratinga nenday",
+        "common_name": "Nanday Parakeet"
+      },
+      "Alexandrinus krameri": {
+        "scientific_name": "Alexandrinus krameri",
+        "common_name": "Rose-ringed Parakeet"
+      },
+      "Agapornis roseicollis": {
+        "scientific_name": "Agapornis roseicollis",
+        "common_name": "Rosy-faced Lovebird"
+      },
+      "Myiopsitta monachus": {
+        "scientific_name": "Myiopsitta monachus",
+        "common_name": "Monk Parakeet"
+      },
+      "Amazona oratrix": {
+        "scientific_name": "Amazona oratrix",
+        "common_name": "Yellow-headed Amazon"
+      },
+      "Eupsittula canicularis": {
+        "scientific_name": "Eupsittula canicularis",
+        "common_name": "Orange-fronted Parakeet"
+      },
+      "Eupsittula pertinax": {
+        "scientific_name": "Eupsittula pertinax",
+        "common_name": "Brown-throated Parakeet"
+      },
+      "Ara severus": {
+        "scientific_name": "Ara severus",
+        "common_name": "Chestnut-fronted Macaw"
+      },
+      "Psittacara acuticaudatus": {
+        "scientific_name": "Psittacara acuticaudatus",
+        "common_name": "Blue-crowned Parakeet"
+      },
+      "Psittacara erythrogenys": {
+        "scientific_name": "Psittacara erythrogenys",
+        "common_name": "Red-masked Parakeet"
+      },
+      "Psittacara mitratus": {
+        "scientific_name": "Psittacara mitratus",
+        "common_name": "Mitred Parakeet"
+      },
+      "Conuropsis carolinensis": {
+        "scientific_name": "Conuropsis carolinensis",
+        "common_name": "Carolina Parakeet"
+      },
+      "Psittacara holochlorus": {
+        "scientific_name": "Psittacara holochlorus",
+        "common_name": "Green Parakeet"
+      }
+    },
+    "Odontophoridae": {
+      "Oreortyx pictus": {
+        "scientific_name": "Oreortyx pictus",
+        "common_name": "Mountain Quail"
+      },
+      "Callipepla gambelii": {
+        "scientific_name": "Callipepla gambelii",
+        "common_name": "Gambel's Quail"
+      },
+      "Callipepla californica": {
+        "scientific_name": "Callipepla californica",
+        "common_name": "California Quail"
+      },
+      "Cyrtonyx montezumae": {
+        "scientific_name": "Cyrtonyx montezumae",
+        "common_name": "Montezuma Quail"
+      },
+      "Colinus virginianus": {
+        "scientific_name": "Colinus virginianus",
+        "common_name": "Northern Bobwhite"
+      },
+      "Callipepla squamata": {
+        "scientific_name": "Callipepla squamata",
+        "common_name": "Scaled Quail"
+      }
+    },
+    "Parulidae": {
+      "Setophaga tigrina": {
+        "scientific_name": "Setophaga tigrina",
+        "common_name": "Cape May Warbler"
+      },
+      "Leiothlypis ruficapilla": {
+        "scientific_name": "Leiothlypis ruficapilla",
+        "common_name": "Nashville Warbler"
+      },
+      "Setophaga petechia": {
+        "scientific_name": "Setophaga petechia",
+        "common_name": "American Yellow Warbler"
+      },
+      "Setophaga magnolia": {
+        "scientific_name": "Setophaga magnolia",
+        "common_name": "Magnolia Warbler"
+      },
+      "Leiothlypis peregrina": {
+        "scientific_name": "Leiothlypis peregrina",
+        "common_name": "Tennessee Warbler"
+      },
+      "Setophaga fusca": {
+        "scientific_name": "Setophaga fusca",
+        "common_name": "Blackburnian Warbler"
+      },
+      "Setophaga pinus": {
+        "scientific_name": "Setophaga pinus",
+        "common_name": "Pine Warbler"
+      },
+      "Setophaga striata": {
+        "scientific_name": "Setophaga striata",
+        "common_name": "Blackpoll Warbler"
+      },
+      "Setophaga caerulescens": {
+        "scientific_name": "Setophaga caerulescens",
+        "common_name": "Black-throated Blue Warbler"
+      },
+      "Setophaga castanea": {
+        "scientific_name": "Setophaga castanea",
+        "common_name": "Bay-breasted Warbler"
+      },
+      "Setophaga palmarum": {
+        "scientific_name": "Setophaga palmarum",
+        "common_name": "Palm Warbler"
+      },
+      "Setophaga virens": {
+        "scientific_name": "Setophaga virens",
+        "common_name": "Black-throated Green Warbler"
+      },
+      "Cardellina pusilla": {
+        "scientific_name": "Cardellina pusilla",
+        "common_name": "Wilson's Warbler"
+      },
+      "Geothlypis tolmiei": {
+        "scientific_name": "Geothlypis tolmiei",
+        "common_name": "MacGillivray's Warbler"
+      },
+      "Setophaga cerulea": {
+        "scientific_name": "Setophaga cerulea",
+        "common_name": "Cerulean Warbler"
+      },
+      "Geothlypis formosa": {
+        "scientific_name": "Geothlypis formosa",
+        "common_name": "Kentucky Warbler"
+      },
+      "Setophaga auduboni": {
+        "scientific_name": "Setophaga auduboni",
+        "common_name": "Audubon's Warbler"
+      },
+      "Setophaga coronata": {
+        "scientific_name": "Setophaga coronata",
+        "common_name": "Myrtle Warbler"
+      },
+      "Protonotaria citrea": {
+        "scientific_name": "Protonotaria citrea",
+        "common_name": "Prothonotary Warbler"
+      },
+      "Setophaga dominica": {
+        "scientific_name": "Setophaga dominica",
+        "common_name": "Yellow-throated Warbler"
+      },
+      "Geothlypis philadelphia": {
+        "scientific_name": "Geothlypis philadelphia",
+        "common_name": "Mourning Warbler"
+      },
+      "Leiothlypis celata": {
+        "scientific_name": "Leiothlypis celata",
+        "common_name": "Orange-crowned Warbler"
+      },
+      "Cardellina canadensis": {
+        "scientific_name": "Cardellina canadensis",
+        "common_name": "Canada Warbler"
+      },
+      "Setophaga citrina": {
+        "scientific_name": "Setophaga citrina",
+        "common_name": "Hooded Warbler"
+      },
+      "Geothlypis trichas": {
+        "scientific_name": "Geothlypis trichas",
+        "common_name": "Common Yellowthroat"
+      },
+      "Vermivora chrysoptera": {
+        "scientific_name": "Vermivora chrysoptera",
+        "common_name": "Golden-winged Warbler"
+      },
+      "Setophaga townsendi": {
+        "scientific_name": "Setophaga townsendi",
+        "common_name": "Townsend's Warbler"
+      },
+      "Setophaga nigrescens": {
+        "scientific_name": "Setophaga nigrescens",
+        "common_name": "Black-throated Grey Warbler"
+      },
+      "Setophaga occidentalis": {
+        "scientific_name": "Setophaga occidentalis",
+        "common_name": "Hermit Warbler"
+      },
+      "Leiothlypis luciae": {
+        "scientific_name": "Leiothlypis luciae",
+        "common_name": "Lucy's Warbler"
+      },
+      "Cardellina rubrifrons": {
+        "scientific_name": "Cardellina rubrifrons",
+        "common_name": "Red-faced Warbler"
+      },
+      "Helmitheros vermivorum": {
+        "scientific_name": "Helmitheros vermivorum",
+        "common_name": "Worm-eating Warbler"
+      },
+      "Parkesia motacilla": {
+        "scientific_name": "Parkesia motacilla",
+        "common_name": "Louisiana Waterthrush"
+      },
+      "Setophaga discolor": {
+        "scientific_name": "Setophaga discolor",
+        "common_name": "Prairie Warbler"
+      },
+      "Leiothlypis virginiae": {
+        "scientific_name": "Leiothlypis virginiae",
+        "common_name": "Virginia's Warbler"
+      },
+      "Setophaga kirtlandii": {
+        "scientific_name": "Setophaga kirtlandii",
+        "common_name": "Kirtland's Warbler"
+      },
+      "Seiurus aurocapilla": {
+        "scientific_name": "Seiurus aurocapilla",
+        "common_name": "Ovenbird"
+      },
+      "Parkesia noveboracensis": {
+        "scientific_name": "Parkesia noveboracensis",
+        "common_name": "Northern Waterthrush"
+      },
+      "Setophaga pensylvanica": {
+        "scientific_name": "Setophaga pensylvanica",
+        "common_name": "Chestnut-sided Warbler"
+      },
+      "Mniotilta varia": {
+        "scientific_name": "Mniotilta varia",
+        "common_name": "Black-and-white Warbler"
+      },
+      "Oporornis agilis": {
+        "scientific_name": "Oporornis agilis",
+        "common_name": "Connecticut Warbler"
+      },
+      "Setophaga americana": {
+        "scientific_name": "Setophaga americana",
+        "common_name": "Northern Parula"
+      },
+      "Setophaga ruticilla": {
+        "scientific_name": "Setophaga ruticilla",
+        "common_name": "American Redstart"
+      },
+      "Setophaga graciae": {
+        "scientific_name": "Setophaga graciae",
+        "common_name": "Grace's Warbler"
+      },
+      "Limnothlypis swainsonii": {
+        "scientific_name": "Limnothlypis swainsonii",
+        "common_name": "Swainson's Warbler"
+      },
+      "Setophaga pitiayumi": {
+        "scientific_name": "Setophaga pitiayumi",
+        "common_name": "Tropical Parula"
+      },
+      "Vermivora cyanoptera": {
+        "scientific_name": "Vermivora cyanoptera",
+        "common_name": "Blue-winged Warbler"
+      },
+      "Setophaga chrysoparia": {
+        "scientific_name": "Setophaga chrysoparia",
+        "common_name": "Golden-cheeked Warbler"
+      },
+      "Myioborus pictus": {
+        "scientific_name": "Myioborus pictus",
+        "common_name": "Painted Whitestart"
+      },
+      "Leiothlypis crissalis": {
+        "scientific_name": "Leiothlypis crissalis",
+        "common_name": "Colima Warbler"
+      },
+      "Vermivora bachmanii": {
+        "scientific_name": "Vermivora bachmanii",
+        "common_name": "Bachman's Warbler"
+      }
+    },
+    "Gruidae": {
+      "Grus americana": {
+        "scientific_name": "Grus americana",
+        "common_name": "Whooping Crane"
+      },
+      "Antigone canadensis": {
+        "scientific_name": "Antigone canadensis",
+        "common_name": "Sandhill Crane"
+      }
+    },
+    "Cracidae": {
+      "Ortalis vetula": {
+        "scientific_name": "Ortalis vetula",
+        "common_name": "Plain Chachalaca"
+      }
+    },
+    "Cathartidae": {
+      "Coragyps atratus": {
+        "scientific_name": "Coragyps atratus",
+        "common_name": "American Black Vulture"
+      },
+      "Cathartes aura": {
+        "scientific_name": "Cathartes aura",
+        "common_name": "Turkey Vulture"
+      },
+      "Gymnogyps californianus": {
+        "scientific_name": "Gymnogyps californianus",
+        "common_name": "California Condor"
+      }
+    },
+    "Scolopacidae": {
+      "Limnodromus griseus": {
+        "scientific_name": "Limnodromus griseus",
+        "common_name": "Short-billed Dowitcher"
+      },
+      "Gallinago gallinago": {
+        "scientific_name": "Gallinago gallinago",
+        "common_name": "Common Snipe"
+      },
+      "Tringa brevipes": {
+        "scientific_name": "Tringa brevipes",
+        "common_name": "Grey-tailed Tattler"
+      },
+      "Tringa glareola": {
+        "scientific_name": "Tringa glareola",
+        "common_name": "Wood Sandpiper"
+      },
+      "Tringa solitaria": {
+        "scientific_name": "Tringa solitaria",
+        "common_name": "Solitary Sandpiper"
+      },
+      "Tringa melanoleuca": {
+        "scientific_name": "Tringa melanoleuca",
+        "common_name": "Greater Yellowlegs"
+      },
+      "Tringa nebularia": {
+        "scientific_name": "Tringa nebularia",
+        "common_name": "Common Greenshank"
+      },
+      "Tringa semipalmata": {
+        "scientific_name": "Tringa semipalmata",
+        "common_name": "Willet"
+      },
+      "Limnodromus scolopaceus": {
+        "scientific_name": "Limnodromus scolopaceus",
+        "common_name": "Long-billed Dowitcher"
+      },
+      "Scolopax minor": {
+        "scientific_name": "Scolopax minor",
+        "common_name": "American Woodcock"
+      },
+      "Calidris ptilocnemis": {
+        "scientific_name": "Calidris ptilocnemis",
+        "common_name": "Rock Sandpiper"
+      },
+      "Gallinago delicata": {
+        "scientific_name": "Gallinago delicata",
+        "common_name": "Wilson's Snipe"
+      },
+      "Tringa flavipes": {
+        "scientific_name": "Tringa flavipes",
+        "common_name": "Lesser Yellowlegs"
+      },
+      "Calidris subruficollis": {
+        "scientific_name": "Calidris subruficollis",
+        "common_name": "Buff-breasted Sandpiper"
+      },
+      "Calidris alba": {
+        "scientific_name": "Calidris alba",
+        "common_name": "Sanderling"
+      },
+      "Calidris bairdii": {
+        "scientific_name": "Calidris bairdii",
+        "common_name": "Baird's Sandpiper"
+      },
+      "Calidris melanotos": {
+        "scientific_name": "Calidris melanotos",
+        "common_name": "Pectoral Sandpiper"
+      },
+      "Calidris fuscicollis": {
+        "scientific_name": "Calidris fuscicollis",
+        "common_name": "White-rumped Sandpiper"
+      },
+      "Calidris alpina": {
+        "scientific_name": "Calidris alpina",
+        "common_name": "Dunlin"
+      },
+      "Arenaria melanocephala": {
+        "scientific_name": "Arenaria melanocephala",
+        "common_name": "Black Turnstone"
+      },
+      "Limosa fedoa": {
+        "scientific_name": "Limosa fedoa",
+        "common_name": "Marbled Godwit"
+      },
+      "Bartramia longicauda": {
+        "scientific_name": "Bartramia longicauda",
+        "common_name": "Upland Sandpiper"
+      },
+      "Limosa lapponica": {
+        "scientific_name": "Limosa lapponica",
+        "common_name": "Bar-tailed Godwit"
+      },
+      "Calidris mauri": {
+        "scientific_name": "Calidris mauri",
+        "common_name": "Western Sandpiper"
+      },
+      "Calidris pugnax": {
+        "scientific_name": "Calidris pugnax",
+        "common_name": "Ruff"
+      },
+      "Numenius americanus": {
+        "scientific_name": "Numenius americanus",
+        "common_name": "Long-billed Curlew"
+      },
+      "Limosa haemastica": {
+        "scientific_name": "Limosa haemastica",
+        "common_name": "Hudsonian Godwit"
+      },
+      "Numenius phaeopus": {
+        "scientific_name": "Numenius phaeopus",
+        "common_name": "Whimbrel"
+      },
+      "Calidris minutilla": {
+        "scientific_name": "Calidris minutilla",
+        "common_name": "Least Sandpiper"
+      },
+      "Calidris himantopus": {
+        "scientific_name": "Calidris himantopus",
+        "common_name": "Stilt Sandpiper"
+      },
+      "Calidris canutus": {
+        "scientific_name": "Calidris canutus",
+        "common_name": "Red Knot"
+      },
+      "Calidris maritima": {
+        "scientific_name": "Calidris maritima",
+        "common_name": "Purple Sandpiper"
+      },
+      "Tringa incana": {
+        "scientific_name": "Tringa incana",
+        "common_name": "Wandering Tattler"
+      },
+      "Actitis macularius": {
+        "scientific_name": "Actitis macularius",
+        "common_name": "Spotted Sandpiper"
+      },
+      "Steganopus tricolor": {
+        "scientific_name": "Steganopus tricolor",
+        "common_name": "Wilson's Phalarope"
+      },
+      "Arenaria interpres": {
+        "scientific_name": "Arenaria interpres",
+        "common_name": "Ruddy Turnstone"
+      },
+      "Phalaropus fulicarius": {
+        "scientific_name": "Phalaropus fulicarius",
+        "common_name": "Red Phalarope"
+      },
+      "Calidris pusilla": {
+        "scientific_name": "Calidris pusilla",
+        "common_name": "Semipalmated Sandpiper"
+      },
+      "Numenius tahitiensis": {
+        "scientific_name": "Numenius tahitiensis",
+        "common_name": "Bristle-thighed Curlew"
+      },
+      "Calidris acuminata": {
+        "scientific_name": "Calidris acuminata",
+        "common_name": "Sharp-tailed Sandpiper"
+      },
+      "Calidris virgata": {
+        "scientific_name": "Calidris virgata",
+        "common_name": "Surfbird"
+      },
+      "Phalaropus lobatus": {
+        "scientific_name": "Phalaropus lobatus",
+        "common_name": "Red-necked Phalarope"
+      },
+      "Calidris subminuta": {
+        "scientific_name": "Calidris subminuta",
+        "common_name": "Long-toed Stint"
+      },
+      "Calidris ruficollis": {
+        "scientific_name": "Calidris ruficollis",
+        "common_name": "Red-necked Stint"
+      }
+    },
+    "Alcedinidae": {
+      "Megaceryle torquata": {
+        "scientific_name": "Megaceryle torquata",
+        "common_name": "Ringed Kingfisher"
+      },
+      "Megaceryle alcyon": {
+        "scientific_name": "Megaceryle alcyon",
+        "common_name": "Belted Kingfisher"
+      },
+      "Chloroceryle americana": {
+        "scientific_name": "Chloroceryle americana",
+        "common_name": "Green Kingfisher"
+      }
+    },
+    "Stercorariidae": {
+      "Stercorarius pomarinus": {
+        "scientific_name": "Stercorarius pomarinus",
+        "common_name": "Pomarine Jaeger"
+      },
+      "Stercorarius longicaudus": {
+        "scientific_name": "Stercorarius longicaudus",
+        "common_name": "Long-tailed Jaeger"
+      },
+      "Catharacta maccormicki": {
+        "scientific_name": "Catharacta maccormicki",
+        "common_name": "South Polar Skua"
+      },
+      "Stercorarius parasiticus": {
+        "scientific_name": "Stercorarius parasiticus",
+        "common_name": "Arctic Jaeger"
+      },
+      "Catharacta skua": {
+        "scientific_name": "Catharacta skua",
+        "common_name": "Great Skua"
+      }
+    },
+    "Podicipedidae": {
+      "Tachybaptus dominicus": {
+        "scientific_name": "Tachybaptus dominicus",
+        "common_name": "Least Grebe"
+      },
+      "Podilymbus podiceps": {
+        "scientific_name": "Podilymbus podiceps",
+        "common_name": "Pied-billed Grebe"
+      },
+      "Podiceps auritus": {
+        "scientific_name": "Podiceps auritus",
+        "common_name": "Horned Grebe"
+      },
+      "Podiceps nigricollis": {
+        "scientific_name": "Podiceps nigricollis",
+        "common_name": "Black-necked Grebe"
+      },
+      "Podiceps grisegena": {
+        "scientific_name": "Podiceps grisegena",
+        "common_name": "Red-necked Grebe"
+      },
+      "Aechmophorus occidentalis": {
+        "scientific_name": "Aechmophorus occidentalis",
+        "common_name": "Western Grebe"
+      },
+      "Aechmophorus clarkii": {
+        "scientific_name": "Aechmophorus clarkii",
+        "common_name": "Clark's Grebe"
+      }
+    },
+    "Troglodytidae": {
+      "Cistothorus stellaris": {
+        "scientific_name": "Cistothorus stellaris",
+        "common_name": "Sedge Wren"
+      },
+      "Thryothorus ludovicianus": {
+        "scientific_name": "Thryothorus ludovicianus",
+        "common_name": "Carolina Wren"
+      },
+      "Thryomanes bewickii": {
+        "scientific_name": "Thryomanes bewickii",
+        "common_name": "Bewick's Wren"
+      },
+      "Cistothorus palustris": {
+        "scientific_name": "Cistothorus palustris",
+        "common_name": "Marsh Wren"
+      },
+      "Catherpes mexicanus": {
+        "scientific_name": "Catherpes mexicanus",
+        "common_name": "Canyon Wren"
+      },
+      "Troglodytes hiemalis": {
+        "scientific_name": "Troglodytes hiemalis",
+        "common_name": "Winter Wren"
+      },
+      "Troglodytes pacificus": {
+        "scientific_name": "Troglodytes pacificus",
+        "common_name": "Pacific Wren"
+      },
+      "Salpinctes obsoletus": {
+        "scientific_name": "Salpinctes obsoletus",
+        "common_name": "Rock Wren"
+      },
+      "Troglodytes aedon": {
+        "scientific_name": "Troglodytes aedon",
+        "common_name": "House Wren"
+      },
+      "Campylorhynchus brunneicapillus": {
+        "scientific_name": "Campylorhynchus brunneicapillus",
+        "common_name": "Cactus Wren"
+      }
+    },
+    "Falconidae": {
+      "Caracara cheriway": {
+        "scientific_name": "Caracara cheriway",
+        "common_name": "Crested Caracara"
+      },
+      "Falco peregrinus": {
+        "scientific_name": "Falco peregrinus",
+        "common_name": "Peregrine Falcon"
+      },
+      "Falco sparverius": {
+        "scientific_name": "Falco sparverius",
+        "common_name": "American Kestrel"
+      },
+      "Falco femoralis": {
+        "scientific_name": "Falco femoralis",
+        "common_name": "Aplomado Falcon"
+      },
+      "Falco columbarius": {
+        "scientific_name": "Falco columbarius",
+        "common_name": "Merlin"
+      },
+      "Falco mexicanus": {
+        "scientific_name": "Falco mexicanus",
+        "common_name": "Prairie Falcon"
+      },
+      "Falco rusticolus": {
+        "scientific_name": "Falco rusticolus",
+        "common_name": "Gyrfalcon"
+      }
+    },
+    "Alaudidae": {
+      "Eremophila alpestris": {
+        "scientific_name": "Eremophila alpestris",
+        "common_name": "Horned Lark"
+      },
+      "Alauda arvensis": {
+        "scientific_name": "Alauda arvensis",
+        "common_name": "Eurasian Skylark"
+      }
+    },
+    "Alcidae": {
+      "Brachyramphus marmoratus": {
+        "scientific_name": "Brachyramphus marmoratus",
+        "common_name": "Marbled Murrelet"
+      },
+      "Fratercula corniculata": {
+        "scientific_name": "Fratercula corniculata",
+        "common_name": "Horned Puffin"
+      },
+      "Ptychoramphus aleuticus": {
+        "scientific_name": "Ptychoramphus aleuticus",
+        "common_name": "Cassin's Auklet"
+      },
+      "Aethia psittacula": {
+        "scientific_name": "Aethia psittacula",
+        "common_name": "Parakeet Auklet"
+      },
+      "Aethia pusilla": {
+        "scientific_name": "Aethia pusilla",
+        "common_name": "Least Auklet"
+      },
+      "Aethia cristatella": {
+        "scientific_name": "Aethia cristatella",
+        "common_name": "Crested Auklet"
+      },
+      "Alca torda": {
+        "scientific_name": "Alca torda",
+        "common_name": "Razorbill"
+      },
+      "Cerorhinca monocerata": {
+        "scientific_name": "Cerorhinca monocerata",
+        "common_name": "Rhinoceros Auklet"
+      },
+      "Synthliboramphus hypoleucus": {
+        "scientific_name": "Synthliboramphus hypoleucus",
+        "common_name": "Guadalupe Murrelet"
+      },
+      "Synthliboramphus scrippsi": {
+        "scientific_name": "Synthliboramphus scrippsi",
+        "common_name": "Scripps's Murrelet"
+      },
+      "Synthliboramphus craveri": {
+        "scientific_name": "Synthliboramphus craveri",
+        "common_name": "Craveri's Murrelet"
+      },
+      "Cepphus columba": {
+        "scientific_name": "Cepphus columba",
+        "common_name": "Pigeon Guillemot"
+      },
+      "Aethia pygmaea": {
+        "scientific_name": "Aethia pygmaea",
+        "common_name": "Whiskered Auklet"
+      },
+      "Fratercula cirrhata": {
+        "scientific_name": "Fratercula cirrhata",
+        "common_name": "Tufted Puffin"
+      },
+      "Pinguinus impennis": {
+        "scientific_name": "Pinguinus impennis",
+        "common_name": "Great Auk"
+      },
+      "Uria aalge": {
+        "scientific_name": "Uria aalge",
+        "common_name": "Common Murre"
+      },
+      "Brachyramphus brevirostris": {
+        "scientific_name": "Brachyramphus brevirostris",
+        "common_name": "Kittlitz's Murrelet"
+      },
+      "Cepphus grylle": {
+        "scientific_name": "Cepphus grylle",
+        "common_name": "Black Guillemot"
+      },
+      "Alle alle": {
+        "scientific_name": "Alle alle",
+        "common_name": "Little Auk"
+      },
+      "Uria lomvia": {
+        "scientific_name": "Uria lomvia",
+        "common_name": "Thick-billed Murre"
+      },
+      "Synthliboramphus antiquus": {
+        "scientific_name": "Synthliboramphus antiquus",
+        "common_name": "Ancient Murrelet"
+      },
+      "Fratercula arctica": {
+        "scientific_name": "Fratercula arctica",
+        "common_name": "Atlantic Puffin"
+      }
+    },
+    "Motacillidae": {
+      "Motacilla tschutschensis": {
+        "scientific_name": "Motacilla tschutschensis",
+        "common_name": "Eastern Yellow Wagtail"
+      },
+      "Anthus rubescens": {
+        "scientific_name": "Anthus rubescens",
+        "common_name": "Buff-bellied Pipit"
+      },
+      "Anthus spragueii": {
+        "scientific_name": "Anthus spragueii",
+        "common_name": "Sprague's Pipit"
+      },
+      "Motacilla alba": {
+        "scientific_name": "Motacilla alba",
+        "common_name": "White Wagtail"
+      },
+      "Anthus cervinus": {
+        "scientific_name": "Anthus cervinus",
+        "common_name": "Red-throated Pipit"
+      }
+    },
+    "Vireonidae": {
+      "Vireo vicinior": {
+        "scientific_name": "Vireo vicinior",
+        "common_name": "Grey Vireo"
+      },
+      "Vireo solitarius": {
+        "scientific_name": "Vireo solitarius",
+        "common_name": "Blue-headed Vireo"
+      },
+      "Vireo olivaceus": {
+        "scientific_name": "Vireo olivaceus",
+        "common_name": "Red-eyed Vireo"
+      },
+      "Vireo bellii": {
+        "scientific_name": "Vireo bellii",
+        "common_name": "Bell's Vireo"
+      },
+      "Vireo cassinii": {
+        "scientific_name": "Vireo cassinii",
+        "common_name": "Cassin's Vireo"
+      },
+      "Vireo atricapilla": {
+        "scientific_name": "Vireo atricapilla",
+        "common_name": "Black-capped Vireo"
+      },
+      "Vireo huttoni": {
+        "scientific_name": "Vireo huttoni",
+        "common_name": "Hutton's Vireo"
+      },
+      "Vireo plumbeus": {
+        "scientific_name": "Vireo plumbeus",
+        "common_name": "Plumbeous Vireo"
+      },
+      "Vireo altiloquus": {
+        "scientific_name": "Vireo altiloquus",
+        "common_name": "Black-whiskered Vireo"
+      },
+      "Vireo gilvus": {
+        "scientific_name": "Vireo gilvus",
+        "common_name": "Warbling Vireo"
+      },
+      "Vireo griseus": {
+        "scientific_name": "Vireo griseus",
+        "common_name": "White-eyed Vireo"
+      },
+      "Vireo philadelphicus": {
+        "scientific_name": "Vireo philadelphicus",
+        "common_name": "Philadelphia Vireo"
+      },
+      "Vireo flavifrons": {
+        "scientific_name": "Vireo flavifrons",
+        "common_name": "Yellow-throated Vireo"
+      },
+      "Vireo flavoviridis": {
+        "scientific_name": "Vireo flavoviridis",
+        "common_name": "Yellow-green Vireo"
+      }
+    },
+    "Charadriidae": {
+      "Charadrius semipalmatus": {
+        "scientific_name": "Charadrius semipalmatus",
+        "common_name": "Semipalmated Plover"
+      },
+      "Charadrius vociferus": {
+        "scientific_name": "Charadrius vociferus",
+        "common_name": "Killdeer"
+      },
+      "Eudromias morinellus": {
+        "scientific_name": "Eudromias morinellus",
+        "common_name": "Eurasian Dotterel"
+      },
+      "Charadrius nivosus": {
+        "scientific_name": "Charadrius nivosus",
+        "common_name": "Snowy Plover"
+      },
+      "Charadrius wilsonia": {
+        "scientific_name": "Charadrius wilsonia",
+        "common_name": "Wilson's Plover"
+      },
+      "Pluvialis fulva": {
+        "scientific_name": "Pluvialis fulva",
+        "common_name": "Pacific Golden Plover"
+      },
+      "Charadrius melodus": {
+        "scientific_name": "Charadrius melodus",
+        "common_name": "Piping Plover"
+      },
+      "Charadrius montanus": {
+        "scientific_name": "Charadrius montanus",
+        "common_name": "Mountain Plover"
+      },
+      "Pluvialis dominica": {
+        "scientific_name": "Pluvialis dominica",
+        "common_name": "American Golden Plover"
+      },
+      "Charadrius hiaticula": {
+        "scientific_name": "Charadrius hiaticula",
+        "common_name": "Common Ringed Plover"
+      },
+      "Pluvialis squatarola": {
+        "scientific_name": "Pluvialis squatarola",
+        "common_name": "Grey Plover"
+      }
+    },
+    "Gaviidae": {
+      "Gavia adamsii": {
+        "scientific_name": "Gavia adamsii",
+        "common_name": "Yellow-billed Loon"
+      },
+      "Gavia pacifica": {
+        "scientific_name": "Gavia pacifica",
+        "common_name": "Pacific Loon"
+      },
+      "Gavia stellata": {
+        "scientific_name": "Gavia stellata",
+        "common_name": "Red-throated Loon"
+      },
+      "Gavia arctica": {
+        "scientific_name": "Gavia arctica",
+        "common_name": "Arctic Loon"
+      },
+      "Gavia immer": {
+        "scientific_name": "Gavia immer",
+        "common_name": "Common Loon"
+      }
+    },
+    "Caprimulgidae": {
+      "Phalaenoptilus nuttallii": {
+        "scientific_name": "Phalaenoptilus nuttallii",
+        "common_name": "Common Poorwill"
+      },
+      "Antrostomus vociferus": {
+        "scientific_name": "Antrostomus vociferus",
+        "common_name": "Eastern Whip-poor-will"
+      },
+      "Antrostomus arizonae": {
+        "scientific_name": "Antrostomus arizonae",
+        "common_name": "Mexican Whip-poor-will"
+      },
+      "Chordeiles acutipennis": {
+        "scientific_name": "Chordeiles acutipennis",
+        "common_name": "Lesser Nighthawk"
+      },
+      "Nyctidromus albicollis": {
+        "scientific_name": "Nyctidromus albicollis",
+        "common_name": "Pauraque"
+      },
+      "Antrostomus carolinensis": {
+        "scientific_name": "Antrostomus carolinensis",
+        "common_name": "Chuck-will's-widow"
+      },
+      "Chordeiles minor": {
+        "scientific_name": "Chordeiles minor",
+        "common_name": "Common Nighthawk"
+      },
+      "Chordeiles gundlachii": {
+        "scientific_name": "Chordeiles gundlachii",
+        "common_name": "Antillean Nighthawk"
+      },
+      "Antrostomus ridgwayi": {
+        "scientific_name": "Antrostomus ridgwayi",
+        "common_name": "Buff-collared Nightjar"
+      }
+    },
+    "Corvidae": {
+      "Pica hudsonia": {
+        "scientific_name": "Pica hudsonia",
+        "common_name": "Black-billed Magpie"
+      },
+      "Corvus corax": {
+        "scientific_name": "Corvus corax",
+        "common_name": "Common Raven"
+      },
+      "Corvus brachyrhynchos": {
+        "scientific_name": "Corvus brachyrhynchos",
+        "common_name": "American Crow"
+      },
+      "Corvus hawaiiensis": {
+        "scientific_name": "Corvus hawaiiensis",
+        "common_name": "Hawaiian Crow"
+      },
+      "Cyanocitta cristata": {
+        "scientific_name": "Cyanocitta cristata",
+        "common_name": "Blue Jay"
+      },
+      "Corvus cryptoleucus": {
+        "scientific_name": "Corvus cryptoleucus",
+        "common_name": "Chihuahuan Raven"
+      },
+      "Aphelocoma californica": {
+        "scientific_name": "Aphelocoma californica",
+        "common_name": "Western Scrub-jay"
+      },
+      "Aphelocoma coerulescens": {
+        "scientific_name": "Aphelocoma coerulescens",
+        "common_name": "Florida Scrub-jay"
+      },
+      "Aphelocoma wollweberi": {
+        "scientific_name": "Aphelocoma wollweberi",
+        "common_name": "Mexican Jay"
+      },
+      "Cyanocorax morio": {
+        "scientific_name": "Cyanocorax morio",
+        "common_name": "Brown Jay"
+      },
+      "Cyanocitta stelleri": {
+        "scientific_name": "Cyanocitta stelleri",
+        "common_name": "Steller's Jay"
+      },
+      "Perisoreus canadensis": {
+        "scientific_name": "Perisoreus canadensis",
+        "common_name": "Grey Jay"
+      },
+      "Corvus ossifragus": {
+        "scientific_name": "Corvus ossifragus",
+        "common_name": "Fish Crow"
+      },
+      "Nucifraga columbiana": {
+        "scientific_name": "Nucifraga columbiana",
+        "common_name": "Clark's Nutcracker"
+      },
+      "Corvus caurinus": {
+        "scientific_name": "Corvus caurinus",
+        "common_name": "Northwestern Crow"
+      },
+      "Corvus imparatus": {
+        "scientific_name": "Corvus imparatus",
+        "common_name": "Tamaulipas Crow"
+      },
+      "Cyanocorax yncas": {
+        "scientific_name": "Cyanocorax yncas",
+        "common_name": "Green Jay"
+      },
+      "Gymnorhinus cyanocephalus": {
+        "scientific_name": "Gymnorhinus cyanocephalus",
+        "common_name": "Pinyon Jay"
+      },
+      "Pica nutalli": {
+        "scientific_name": "Pica nutalli",
+        "common_name": "Yellow-billed Magpie"
+      }
+    },
+    "Sittidae": {
+      "Sitta carolinensis": {
+        "scientific_name": "Sitta carolinensis",
+        "common_name": "White-breasted Nuthatch"
+      },
+      "Sitta pusilla": {
+        "scientific_name": "Sitta pusilla",
+        "common_name": "Brown-headed Nuthatch"
+      },
+      "Sitta canadensis": {
+        "scientific_name": "Sitta canadensis",
+        "common_name": "Red-breasted Nuthatch"
+      },
+      "Sitta pygmaea": {
+        "scientific_name": "Sitta pygmaea",
+        "common_name": "Pygmy Nuthatch"
+      }
+    },
+    "Turdidae": {
+      "Turdus migratorius": {
+        "scientific_name": "Turdus migratorius",
+        "common_name": "American Robin"
+      },
+      "Catharus bicknelli": {
+        "scientific_name": "Catharus bicknelli",
+        "common_name": "Bicknell's Thrush"
+      },
+      "Hylocichla mustelina": {
+        "scientific_name": "Hylocichla mustelina",
+        "common_name": "Wood Thrush"
+      },
+      "Turdus grayi": {
+        "scientific_name": "Turdus grayi",
+        "common_name": "Clay-colored Thrush"
+      },
+      "Catharus guttatus": {
+        "scientific_name": "Catharus guttatus",
+        "common_name": "Hermit Thrush"
+      },
+      "Catharus minimus": {
+        "scientific_name": "Catharus minimus",
+        "common_name": "Grey-cheeked Thrush"
+      },
+      "Myadestes obscurus": {
+        "scientific_name": "Myadestes obscurus",
+        "common_name": "Omao"
+      },
+      "Catharus swainsoni": {
+        "scientific_name": "Catharus swainsoni",
+        "common_name": "Swainson's Thrush"
+      },
+      "Sialia mexicana": {
+        "scientific_name": "Sialia mexicana",
+        "common_name": "Western Bluebird"
+      },
+      "Myadestes lanaiensis": {
+        "scientific_name": "Myadestes lanaiensis",
+        "common_name": "Olomao"
+      },
+      "Myadestes palmeri": {
+        "scientific_name": "Myadestes palmeri",
+        "common_name": "Puaiohi"
+      },
+      "Myadestes townsendi": {
+        "scientific_name": "Myadestes townsendi",
+        "common_name": "Townsend's Solitaire"
+      },
+      "Myadestes woahensis": {
+        "scientific_name": "Myadestes woahensis",
+        "common_name": "Amaui"
+      },
+      "Sialia currucoides": {
+        "scientific_name": "Sialia currucoides",
+        "common_name": "Mountain Bluebird"
+      },
+      "Sialia sialis": {
+        "scientific_name": "Sialia sialis",
+        "common_name": "Eastern Bluebird"
+      },
+      "Catharus fuscescens": {
+        "scientific_name": "Catharus fuscescens",
+        "common_name": "Veery"
+      },
+      "Catharus ustulatus": {
+        "scientific_name": "Catharus ustulatus",
+        "common_name": "Russet-backed Thrush"
+      },
+      "Myadestes myadestinus": {
+        "scientific_name": "Myadestes myadestinus",
+        "common_name": "Kamao"
+      },
+      "Ixoreus naevius": {
+        "scientific_name": "Ixoreus naevius",
+        "common_name": "Varied Thrush"
+      }
+    },
+    "Threskiornithidae": {
+      "Plegadis falcinellus": {
+        "scientific_name": "Plegadis falcinellus",
+        "common_name": "Glossy Ibis"
+      },
+      "Eudocimus albus": {
+        "scientific_name": "Eudocimus albus",
+        "common_name": "White Ibis"
+      },
+      "Plegadis chihi": {
+        "scientific_name": "Plegadis chihi",
+        "common_name": "White-faced Ibis"
+      },
+      "Platalea ajaja": {
+        "scientific_name": "Platalea ajaja",
+        "common_name": "Roseate Spoonbill"
+      }
+    },
+    "Cardinalidae": {
+      "Piranga hepatica": {
+        "scientific_name": "Piranga hepatica",
+        "common_name": "Hepatic Tanager"
+      },
+      "Pheucticus ludovicianus": {
+        "scientific_name": "Pheucticus ludovicianus",
+        "common_name": "Rose-breasted Grosbeak"
+      },
+      "Cardinalis cardinalis": {
+        "scientific_name": "Cardinalis cardinalis",
+        "common_name": "Northern Cardinal"
+      },
+      "Passerina ciris": {
+        "scientific_name": "Passerina ciris",
+        "common_name": "Painted Bunting"
+      },
+      "Piranga olivacea": {
+        "scientific_name": "Piranga olivacea",
+        "common_name": "Scarlet Tanager"
+      },
+      "Pheucticus melanocephalus": {
+        "scientific_name": "Pheucticus melanocephalus",
+        "common_name": "Black-headed Grosbeak"
+      },
+      "Piranga ludoviciana": {
+        "scientific_name": "Piranga ludoviciana",
+        "common_name": "Western Tanager"
+      },
+      "Piranga rubra": {
+        "scientific_name": "Piranga rubra",
+        "common_name": "Summer Tanager"
+      },
+      "Passerina cyanea": {
+        "scientific_name": "Passerina cyanea",
+        "common_name": "Indigo Bunting"
+      },
+      "Passerina versicolor": {
+        "scientific_name": "Passerina versicolor",
+        "common_name": "Varied Bunting"
+      },
+      "Passerina caerulea": {
+        "scientific_name": "Passerina caerulea",
+        "common_name": "Blue Grosbeak"
+      },
+      "Cardinalis sinuatus": {
+        "scientific_name": "Cardinalis sinuatus",
+        "common_name": "Pyrrhuloxia"
+      },
+      "Passerina amoena": {
+        "scientific_name": "Passerina amoena",
+        "common_name": "Lazuli Bunting"
+      },
+      "Spiza americana": {
+        "scientific_name": "Spiza americana",
+        "common_name": "Dickcissel"
+      },
+      "Piranga bidentata": {
+        "scientific_name": "Piranga bidentata",
+        "common_name": "Flame-colored Tanager"
+      }
+    },
+    "Recurvirostridae": {
+      "Himantopus himantopus": {
+        "scientific_name": "Himantopus himantopus",
+        "common_name": "Black-winged Stilt"
+      },
+      "Recurvirostra americana": {
+        "scientific_name": "Recurvirostra americana",
+        "common_name": "American Avocet"
+      }
+    },
+    "Apodidae": {
+      "Cypseloides niger": {
+        "scientific_name": "Cypseloides niger",
+        "common_name": "Black Swift"
+      },
+      "Chaetura pelagica": {
+        "scientific_name": "Chaetura pelagica",
+        "common_name": "Chimney Swift"
+      },
+      "Chaetura vauxi": {
+        "scientific_name": "Chaetura vauxi",
+        "common_name": "Vaux's Swift"
+      },
+      "Aerodramus bartschi": {
+        "scientific_name": "Aerodramus bartschi",
+        "common_name": "Mariana Swiftlet"
+      },
+      "Aeronautes saxatalis": {
+        "scientific_name": "Aeronautes saxatalis",
+        "common_name": "White-throated Swift"
+      }
+    },
+    "Paridae": {
+      "Baeolophus wollweberi": {
+        "scientific_name": "Baeolophus wollweberi",
+        "common_name": "Bridled Titmouse"
+      },
+      "Poecile rufescens": {
+        "scientific_name": "Poecile rufescens",
+        "common_name": "Chestnut-backed Chickadee"
+      },
+      "Poecile cinctus": {
+        "scientific_name": "Poecile cinctus",
+        "common_name": "Siberian Tit"
+      },
+      "Baeolophus ridgwayi": {
+        "scientific_name": "Baeolophus ridgwayi",
+        "common_name": "Juniper Titmouse"
+      },
+      "Poecile gambeli": {
+        "scientific_name": "Poecile gambeli",
+        "common_name": "Mountain Chickadee"
+      },
+      "Baeolophus inornatus": {
+        "scientific_name": "Baeolophus inornatus",
+        "common_name": "Oak Titmouse"
+      },
+      "Baeolophus bicolor": {
+        "scientific_name": "Baeolophus bicolor",
+        "common_name": "Tufted Titmouse"
+      },
+      "Poecile hudsonicus": {
+        "scientific_name": "Poecile hudsonicus",
+        "common_name": "Boreal Chickadee"
+      },
+      "Poecile carolinensis": {
+        "scientific_name": "Poecile carolinensis",
+        "common_name": "Carolina Chickadee"
+      },
+      "Poecile sclateri": {
+        "scientific_name": "Poecile sclateri",
+        "common_name": "Mexican Chickadee"
+      },
+      "Baeolophus atricristatus": {
+        "scientific_name": "Baeolophus atricristatus",
+        "common_name": "Black-crested Titmouse"
+      },
+      "Poecile atricapillus": {
+        "scientific_name": "Poecile atricapillus",
+        "common_name": "Black-capped Chickadee"
+      }
+    },
+    "Aegithalidae": {
+      "Psaltriparus minimus": {
+        "scientific_name": "Psaltriparus minimus",
+        "common_name": "American Bushtit"
+      }
+    },
+    "Regulidae": {
+      "Regulus satrapa": {
+        "scientific_name": "Regulus satrapa",
+        "common_name": "Golden-crowned Kinglet"
+      },
+      "Regulus calendula": {
+        "scientific_name": "Regulus calendula",
+        "common_name": "Ruby-crowned Kinglet"
+      }
+    },
+    "Mimidae": {
+      "Toxostoma curvirostre": {
+        "scientific_name": "Toxostoma curvirostre",
+        "common_name": "Curve-billed Thrasher"
+      },
+      "Dumetella carolinensis": {
+        "scientific_name": "Dumetella carolinensis",
+        "common_name": "Grey Catbird"
+      },
+      "Oreoscoptes montanus": {
+        "scientific_name": "Oreoscoptes montanus",
+        "common_name": "Sage Thrasher"
+      },
+      "Toxostoma lecontei": {
+        "scientific_name": "Toxostoma lecontei",
+        "common_name": "Le Conte's Thrasher"
+      },
+      "Mimus polyglottos": {
+        "scientific_name": "Mimus polyglottos",
+        "common_name": "Northern Mockingbird"
+      },
+      "Toxostoma bendirei": {
+        "scientific_name": "Toxostoma bendirei",
+        "common_name": "Bendire's Thrasher"
+      },
+      "Toxostoma longirostre": {
+        "scientific_name": "Toxostoma longirostre",
+        "common_name": "Long-billed Thrasher"
+      },
+      "Toxostoma rufum": {
+        "scientific_name": "Toxostoma rufum",
+        "common_name": "Brown Thrasher"
+      },
+      "Toxostoma crissale": {
+        "scientific_name": "Toxostoma crissale",
+        "common_name": "Crissal Thrasher"
+      },
+      "Toxostoma redivivum": {
+        "scientific_name": "Toxostoma redivivum",
+        "common_name": "California Thrasher"
+      }
+    },
+    "Pteroclidae": {
+      "Pterocles exustus": {
+        "scientific_name": "Pterocles exustus",
+        "common_name": "Chestnut-bellied Sandgrouse"
+      }
+    },
+    "Procellariidae": {
+      "Puffinus newelli": {
+        "scientific_name": "Puffinus newelli",
+        "common_name": "Newell's Shearwater"
+      },
+      "Puffinus opisthomelas": {
+        "scientific_name": "Puffinus opisthomelas",
+        "common_name": "Black-vented Shearwater"
+      },
+      "Puffinus bryani": {
+        "scientific_name": "Puffinus bryani",
+        "common_name": "Bryan's Shearwater"
+      },
+      "Pterodroma cahow": {
+        "scientific_name": "Pterodroma cahow",
+        "common_name": "Bermuda Petrel"
+      },
+      "Pterodroma hypoleuca": {
+        "scientific_name": "Pterodroma hypoleuca",
+        "common_name": "Bonin Petrel"
+      },
+      "Pterodroma sandwichensis": {
+        "scientific_name": "Pterodroma sandwichensis",
+        "common_name": "Hawaiian Petrel"
+      },
+      "Pterodroma hasitata": {
+        "scientific_name": "Pterodroma hasitata",
+        "common_name": "Black-capped Petrel"
+      },
+      "Pterodroma externa": {
+        "scientific_name": "Pterodroma externa",
+        "common_name": "Juan Fernandez Petrel"
+      },
+      "Fulmarus glacialis": {
+        "scientific_name": "Fulmarus glacialis",
+        "common_name": "Northern Fulmar"
+      },
+      "Ardenna carneipes": {
+        "scientific_name": "Ardenna carneipes",
+        "common_name": "Flesh-footed Shearwater"
+      },
+      "Ardenna grisea": {
+        "scientific_name": "Ardenna grisea",
+        "common_name": "Sooty Shearwater"
+      },
+      "Pterodroma neglecta": {
+        "scientific_name": "Pterodroma neglecta",
+        "common_name": "Kermadec Petrel"
+      },
+      "Pterodroma cervicalis": {
+        "scientific_name": "Pterodroma cervicalis",
+        "common_name": "White-necked Petrel"
+      },
+      "Puffinus nativitatis": {
+        "scientific_name": "Puffinus nativitatis",
+        "common_name": "Christmas Shearwater"
+      },
+      "Pterodroma cookii": {
+        "scientific_name": "Pterodroma cookii",
+        "common_name": "Cook's Petrel"
+      },
+      "Pterodroma inexpectata": {
+        "scientific_name": "Pterodroma inexpectata",
+        "common_name": "Mottled Petrel"
+      },
+      "Pterodroma nigripennis": {
+        "scientific_name": "Pterodroma nigripennis",
+        "common_name": "Black-winged Petrel"
+      },
+      "Pterodroma pycrofti": {
+        "scientific_name": "Pterodroma pycrofti",
+        "common_name": "Pycroft's Petrel"
+      },
+      "Pterodroma solandri": {
+        "scientific_name": "Pterodroma solandri",
+        "common_name": "Providence Petrel"
+      },
+      "Puffinus lherminieri": {
+        "scientific_name": "Puffinus lherminieri",
+        "common_name": "Audubon's Shearwater"
+      },
+      "Puffinus puffinus": {
+        "scientific_name": "Puffinus puffinus",
+        "common_name": "Manx Shearwater"
+      },
+      "Pterodroma deserta": {
+        "scientific_name": "Pterodroma deserta",
+        "common_name": "Desertas Petrel"
+      },
+      "Pterodroma leucoptera": {
+        "scientific_name": "Pterodroma leucoptera",
+        "common_name": "White-winged Petrel"
+      },
+      "Ardenna bulleri": {
+        "scientific_name": "Ardenna bulleri",
+        "common_name": "Buller's Shearwater"
+      },
+      "Ardenna pacifica": {
+        "scientific_name": "Ardenna pacifica",
+        "common_name": "Wedge-tailed Shearwater"
+      },
+      "Ardenna tenuirostris": {
+        "scientific_name": "Ardenna tenuirostris",
+        "common_name": "Short-tailed Shearwater"
+      },
+      "Bulweria bulwerii": {
+        "scientific_name": "Bulweria bulwerii",
+        "common_name": "Bulwer's Petrel"
+      },
+      "Ardenna gravis": {
+        "scientific_name": "Ardenna gravis",
+        "common_name": "Great Shearwater"
+      },
+      "Pterodroma ultima": {
+        "scientific_name": "Pterodroma ultima",
+        "common_name": "Murphy's Petrel"
+      },
+      "Ardenna creatopus": {
+        "scientific_name": "Ardenna creatopus",
+        "common_name": "Pink-footed Shearwater"
+      },
+      "Pterodroma feae": {
+        "scientific_name": "Pterodroma feae",
+        "common_name": "Cape Verde Petrel"
+      }
+    },
+    "Muscicapidae": {
+      "Cyanecula svecica": {
+        "scientific_name": "Cyanecula svecica",
+        "common_name": "Bluethroat"
+      },
+      "Kittacincla malabarica": {
+        "scientific_name": "Kittacincla malabarica",
+        "common_name": "White-rumped Shama"
+      },
+      "Oenanthe oenanthe": {
+        "scientific_name": "Oenanthe oenanthe",
+        "common_name": "Northern Wheatear"
+      }
+    },
+    "Hirundinidae": {
+      "Stelgidopteryx serripennis": {
+        "scientific_name": "Stelgidopteryx serripennis",
+        "common_name": "Northern Rough-winged Swallow"
+      },
+      "Petrochelidon pyrrhonota": {
+        "scientific_name": "Petrochelidon pyrrhonota",
+        "common_name": "Cliff Swallow"
+      },
+      "Tachycineta thalassina": {
+        "scientific_name": "Tachycineta thalassina",
+        "common_name": "Violet-green Swallow"
+      },
+      "Hirundo rustica": {
+        "scientific_name": "Hirundo rustica",
+        "common_name": "Barn Swallow"
+      },
+      "Riparia riparia": {
+        "scientific_name": "Riparia riparia",
+        "common_name": "Collared Sand Martin"
+      },
+      "Petrochelidon fulva": {
+        "scientific_name": "Petrochelidon fulva",
+        "common_name": "Cave Swallow"
+      },
+      "Progne subis": {
+        "scientific_name": "Progne subis",
+        "common_name": "Purple Martin"
+      },
+      "Tachycineta bicolor": {
+        "scientific_name": "Tachycineta bicolor",
+        "common_name": "Tree Swallow"
+      },
+      "Tachycineta cyaneoviridis": {
+        "scientific_name": "Tachycineta cyaneoviridis",
+        "common_name": "Bahama Swallow"
+      }
+    },
+    "Haematopodidae": {
+      "Haematopus palliatus": {
+        "scientific_name": "Haematopus palliatus",
+        "common_name": "American Oystercatcher"
+      },
+      "Haematopus ater": {
+        "scientific_name": "Haematopus ater",
+        "common_name": "Blackish Oystercatcher"
+      }
+    },
+    "Ptiliogonatidae": {
+      "Phainopepla nitens": {
+        "scientific_name": "Phainopepla nitens",
+        "common_name": "Phainopepla"
+      }
+    },
+    "Calcariidae": {
+      "Plectrophenax hyperboreus": {
+        "scientific_name": "Plectrophenax hyperboreus",
+        "common_name": "McKay's Bunting"
+      },
+      "Calcarius lapponicus": {
+        "scientific_name": "Calcarius lapponicus",
+        "common_name": "Lapland Longspur"
+      },
+      "Calcarius ornatus": {
+        "scientific_name": "Calcarius ornatus",
+        "common_name": "Chestnut-collared Longspur"
+      },
+      "Calcarius pictus": {
+        "scientific_name": "Calcarius pictus",
+        "common_name": "Smith's Longspur"
+      },
+      "Plectrophenax nivalis": {
+        "scientific_name": "Plectrophenax nivalis",
+        "common_name": "Snow Bunting"
+      },
+      "Rhynchophanes mccownii": {
+        "scientific_name": "Rhynchophanes mccownii",
+        "common_name": "Thick-billed Longspur"
+      }
+    },
+    "Polioptilidae": {
+      "Polioptila caerulea": {
+        "scientific_name": "Polioptila caerulea",
+        "common_name": "Blue-grey Gnatcatcher"
+      },
+      "Polioptila nigriceps": {
+        "scientific_name": "Polioptila nigriceps",
+        "common_name": "Black-capped Gnatcatcher"
+      },
+      "Polioptila californica": {
+        "scientific_name": "Polioptila californica",
+        "common_name": "California Gnatcatcher"
+      },
+      "Polioptila melanura": {
+        "scientific_name": "Polioptila melanura",
+        "common_name": "Black-tailed Gnatcatcher"
+      }
+    },
+    "Pandionidae": {
+      "Pandion haliaetus": {
+        "scientific_name": "Pandion haliaetus",
+        "common_name": "Osprey"
+      }
+    },
+    "Bombycillidae": {
+      "Bombycilla garrulus": {
+        "scientific_name": "Bombycilla garrulus",
+        "common_name": "Bohemian Waxwing"
+      },
+      "Bombycilla cedrorum": {
+        "scientific_name": "Bombycilla cedrorum",
+        "common_name": "Cedar Waxwing"
+      }
+    },
+    "Anhingidae": {
+      "Anhinga anhinga": {
+        "scientific_name": "Anhinga anhinga",
+        "common_name": "Anhinga"
+      }
+    },
+    "Monarchidae": {
+      "Chasiempis ibidis": {
+        "scientific_name": "Chasiempis ibidis",
+        "common_name": "Oahu Elepaio"
+      },
+      "Chasiempis sandwichensis": {
+        "scientific_name": "Chasiempis sandwichensis",
+        "common_name": "Hawaii Elepaio"
+      },
+      "Chasiempis sclateri": {
+        "scientific_name": "Chasiempis sclateri",
+        "common_name": "Kauai Elepaio"
+      }
+    },
+    "Acrocephalidae": {
+      "Acrocephalus familiaris": {
+        "scientific_name": "Acrocephalus familiaris",
+        "common_name": "Millerbird"
+      }
+    },
+    "Phalacrocoracidae": {
+      "Urile pelagicus": {
+        "scientific_name": "Urile pelagicus",
+        "common_name": "Pelagic Cormorant"
+      },
+      "Nannopterum auritus": {
+        "scientific_name": "Nannopterum auritus",
+        "common_name": "Double-crested Cormorant"
+      },
+      "Urile urile": {
+        "scientific_name": "Urile urile",
+        "common_name": "Red-faced Cormorant"
+      },
+      "Phalacrocorax carbo": {
+        "scientific_name": "Phalacrocorax carbo",
+        "common_name": "Great Cormorant"
+      },
+      "Nannopterum brasilianus": {
+        "scientific_name": "Nannopterum brasilianus",
+        "common_name": "Neotropical Cormorant"
+      },
+      "Urile penicillatus": {
+        "scientific_name": "Urile penicillatus",
+        "common_name": "Brandt's Cormorant"
+      }
+    },
+    "Trogonidae": {
+      "Trogon ambiguus": {
+        "scientific_name": "Trogon ambiguus",
+        "common_name": "Coppery-tailed Trogon"
+      },
+      "Euptilotis neoxenus": {
+        "scientific_name": "Euptilotis neoxenus",
+        "common_name": "Eared Quetzal"
+      }
+    },
+    "Laniidae": {
+      "Lanius ludovicianus": {
+        "scientific_name": "Lanius ludovicianus",
+        "common_name": "Loggerhead Shrike"
+      },
+      "Lanius borealis": {
+        "scientific_name": "Lanius borealis",
+        "common_name": "Northern Grey Shrike"
+      }
+    },
+    "Locustellidae": {
+      "Locustella ochotensis": {
+        "scientific_name": "Locustella ochotensis",
+        "common_name": "Middendorff's Grasshopper-warbler"
+      }
+    },
+    "Peucedramidae": {
+      "Peucedramus taeniatus": {
+        "scientific_name": "Peucedramus taeniatus",
+        "common_name": "Olive Warbler"
+      }
+    },
+    "Prunellidae": {
+      "Prunella montanella": {
+        "scientific_name": "Prunella montanella",
+        "common_name": "Siberian Accentor"
+      }
+    },
+    "Tytonidae": {
+      "Tyto alba": {
+        "scientific_name": "Tyto alba",
+        "common_name": "Common Barn-owl"
+      }
+    },
+    "Pelecanidae": {
+      "Pelecanus erythrorhynchos": {
+        "scientific_name": "Pelecanus erythrorhynchos",
+        "common_name": "American White Pelican"
+      },
+      "Pelecanus occidentalis": {
+        "scientific_name": "Pelecanus occidentalis",
+        "common_name": "Brown Pelican"
+      }
+    },
+    "Remizidae": {
+      "Auriparus flaviceps": {
+        "scientific_name": "Auriparus flaviceps",
+        "common_name": "Verdin"
+      }
+    },
+    "Cinclidae": {
+      "Cinclus mexicanus": {
+        "scientific_name": "Cinclus mexicanus",
+        "common_name": "American Dipper"
+      }
+    },
+    "Tityridae": {
+      "Pachyramphus aglaiae": {
+        "scientific_name": "Pachyramphus aglaiae",
+        "common_name": "Rose-throated Becard"
+      }
+    },
+    "Pycnonotidae": {
+      "Pycnonotus jocosus": {
+        "scientific_name": "Pycnonotus jocosus",
+        "common_name": "Red-whiskered Bulbul"
+      },
+      "Pycnonotus cafer": {
+        "scientific_name": "Pycnonotus cafer",
+        "common_name": "Red-vented Bulbul"
+      }
+    },
+    "Diomedeidae": {
+      "Phoebastria albatrus": {
+        "scientific_name": "Phoebastria albatrus",
+        "common_name": "Short-tailed Albatross"
+      },
+      "Phoebastria nigripes": {
+        "scientific_name": "Phoebastria nigripes",
+        "common_name": "Black-footed Albatross"
+      },
+      "Phoebastria immutabilis": {
+        "scientific_name": "Phoebastria immutabilis",
+        "common_name": "Laysan Albatross"
+      }
+    },
+    "Thraupidae": {
+      "Sicalis flaveola": {
+        "scientific_name": "Sicalis flaveola",
+        "common_name": "Saffron Finch"
+      },
+      "Paroaria coronata": {
+        "scientific_name": "Paroaria coronata",
+        "common_name": "Red-crested Cardinal"
+      },
+      "Tiaris olivaceus": {
+        "scientific_name": "Tiaris olivaceus",
+        "common_name": "Yellow-faced Grassquit"
+      },
+      "Coereba flaveola": {
+        "scientific_name": "Coereba flaveola",
+        "common_name": "Bananaquit"
+      },
+      "Sporophila morelleti": {
+        "scientific_name": "Sporophila morelleti",
+        "common_name": "White-collared Seedeater"
+      }
+    },
+    "Zosteropidae": {
+      "Zosterops japonicus": {
+        "scientific_name": "Zosterops japonicus",
+        "common_name": "Mountain White-eye"
+      }
+    },
+    "Sulidae": {
+      "Morus bassanus": {
+        "scientific_name": "Morus bassanus",
+        "common_name": "Northern Gannet"
+      },
+      "Sula dactylatra": {
+        "scientific_name": "Sula dactylatra",
+        "common_name": "Masked Booby"
+      },
+      "Sula leucogaster": {
+        "scientific_name": "Sula leucogaster",
+        "common_name": "Brown Booby"
+      },
+      "Sula sula": {
+        "scientific_name": "Sula sula",
+        "common_name": "Red-footed Booby"
+      }
+    },
+    "Certhiidae": {
+      "Certhia americana": {
+        "scientific_name": "Certhia americana",
+        "common_name": "American Treecreeper"
+      }
+    },
+    "Phylloscopidae": {
+      "Phylloscopus borealis": {
+        "scientific_name": "Phylloscopus borealis",
+        "common_name": "Arctic Warbler"
+      }
+    },
+    "Aramidae": {
+      "Aramus guarauna": {
+        "scientific_name": "Aramus guarauna",
+        "common_name": "Limpkin"
+      }
+    },
+    "Passeridae": {
+      "Passer domesticus": {
+        "scientific_name": "Passer domesticus",
+        "common_name": "House Sparrow"
+      },
+      "Passer montanus": {
+        "scientific_name": "Passer montanus",
+        "common_name": "Eurasian Tree Sparrow"
+      }
+    },
+    "Sturnidae": {
+      "Sturnus vulgaris": {
+        "scientific_name": "Sturnus vulgaris",
+        "common_name": "Common Starling"
+      },
+      "Acridotheres tristis": {
+        "scientific_name": "Acridotheres tristis",
+        "common_name": "Common Myna"
+      }
+    },
+    "Oceanitidae": {
+      "Oceanites oceanicus": {
+        "scientific_name": "Oceanites oceanicus",
+        "common_name": "Wilson's Storm-petrel"
+      }
+    },
+    "Phaethontidae": {
+      "Phaethon rubricauda": {
+        "scientific_name": "Phaethon rubricauda",
+        "common_name": "Red-tailed Tropicbird"
+      },
+      "Phaethon lepturus": {
+        "scientific_name": "Phaethon lepturus",
+        "common_name": "White-tailed Tropicbird"
+      }
+    },
+    "Fregatidae": {
+      "Fregata ariel": {
+        "scientific_name": "Fregata ariel",
+        "common_name": "Lesser Frigatebird"
+      },
+      "Fregata magnificens": {
+        "scientific_name": "Fregata magnificens",
+        "common_name": "Magnificent Frigatebird"
+      },
+      "Fregata minor": {
+        "scientific_name": "Fregata minor",
+        "common_name": "Great Frigatebird"
+      }
+    },
+    "Ploceidae": {
+      "Foudia madagascariensis": {
+        "scientific_name": "Foudia madagascariensis",
+        "common_name": "Red Fody"
+      },
+      "Euplectes franciscanus": {
+        "scientific_name": "Euplectes franciscanus",
+        "common_name": "Northern Red Bishop"
+      }
+    },
+    "Sylviidae": {
+      "Chamaea fasciata": {
+        "scientific_name": "Chamaea fasciata",
+        "common_name": "Wrentit"
+      }
+    },
+    "Spindalidae": {
+      "Spindalis zena": {
+        "scientific_name": "Spindalis zena",
+        "common_name": "Western Spindalis"
+      }
+    }
+  },
+  "families": {
+    "Anatidae": {
+      "common_name": "Ducks, geese, swans",
+      "count": 58
+    },
+    "Rallidae": {
+      "common_name": "Rails, gallinules, coots",
+      "count": 13
+    },
+    "Phasianidae": {
+      "common_name": "Pheasants, partridges, turkeys, grouse",
+      "count": 28
+    },
+    "Mohoidae": {
+      "common_name": "Oos",
+      "count": 5
+    },
+    "Fringillidae": {
+      "common_name": "Finches",
+      "count": 57
+    },
+    "Columbidae": {
+      "common_name": "Pigeons, doves",
+      "count": 13
+    },
+    "Strigidae": {
+      "common_name": "Typical owls",
+      "count": 19
+    },
+    "Scotocercidae": {
+      "common_name": "Bush-warblers",
+      "count": 2
+    },
+    "Leiotrichidae": {
+      "common_name": "Laughingthrushes and allies",
+      "count": 2
+    },
+    "Icteridae": {
+      "common_name": "New World blackbirds",
+      "count": 23
+    },
+    "Estrildidae": {
+      "common_name": "Waxbills",
+      "count": 9
+    },
+    "Ardeidae": {
+      "common_name": "Herons",
+      "count": 14
+    },
+    "Cuculidae": {
+      "common_name": "Cuckoos",
+      "count": 6
+    },
+    "Accipitridae": {
+      "common_name": "Hawks, eagles",
+      "count": 25
+    },
+    "Ciconiidae": {
+      "common_name": "Storks",
+      "count": 1
+    },
+    "Laridae": {
+      "common_name": "Gulls, terns, skimmers",
+      "count": 44
+    },
+    "Trochilidae": {
+      "common_name": "Hummingbirds",
+      "count": 14
+    },
+    "Hydrobatidae": {
+      "common_name": "Northern storm-petrels",
+      "count": 9
+    },
+    "Picidae": {
+      "common_name": "Woodpeckers",
+      "count": 24
+    },
+    "Tyrannidae": {
+      "common_name": "Tyrant-flycatchers",
+      "count": 34
+    },
+    "Passerellidae": {
+      "common_name": "New World sparrows",
+      "count": 49
+    },
+    "Psittacidae": {
+      "common_name": "Parrots",
+      "count": 19
+    },
+    "Odontophoridae": {
+      "common_name": "New World quails",
+      "count": 6
+    },
+    "Parulidae": {
+      "common_name": "New World warblers",
+      "count": 51
+    },
+    "Gruidae": {
+      "common_name": "Cranes",
+      "count": 2
+    },
+    "Cracidae": {
+      "common_name": "Guans, chachalacas, curassows",
+      "count": 1
+    },
+    "Cathartidae": {
+      "common_name": "New World vultures",
+      "count": 3
+    },
+    "Scolopacidae": {
+      "common_name": "Sandpipers, snipes, phalaropes",
+      "count": 44
+    },
+    "Alcedinidae": {
+      "common_name": "Kingfishers",
+      "count": 3
+    },
+    "Stercorariidae": {
+      "common_name": "Skuas",
+      "count": 5
+    },
+    "Podicipedidae": {
+      "common_name": "Grebes",
+      "count": 7
+    },
+    "Troglodytidae": {
+      "common_name": "Wrens",
+      "count": 10
+    },
+    "Falconidae": {
+      "common_name": "Falcons, caracaras",
+      "count": 7
+    },
+    "Alaudidae": {
+      "common_name": "Larks",
+      "count": 2
+    },
+    "Alcidae": {
+      "common_name": "Auks",
+      "count": 22
+    },
+    "Motacillidae": {
+      "common_name": "Pipits and wagtails",
+      "count": 5
+    },
+    "Vireonidae": {
+      "common_name": "Vireos",
+      "count": 14
+    },
+    "Charadriidae": {
+      "common_name": "Plovers",
+      "count": 11
+    },
+    "Gaviidae": {
+      "common_name": "Loons/divers",
+      "count": 5
+    },
+    "Caprimulgidae": {
+      "common_name": "Nightjars",
+      "count": 9
+    },
+    "Corvidae": {
+      "common_name": "Crows and jays",
+      "count": 19
+    },
+    "Sittidae": {
+      "common_name": "Nuthatches",
+      "count": 4
+    },
+    "Turdidae": {
+      "common_name": "Thrushes",
+      "count": 19
+    },
+    "Threskiornithidae": {
+      "common_name": "Ibises, spoonbills",
+      "count": 4
+    },
+    "Cardinalidae": {
+      "common_name": "Cardinals",
+      "count": 15
+    },
+    "Recurvirostridae": {
+      "common_name": "Avocets, stilts",
+      "count": 2
+    },
+    "Apodidae": {
+      "common_name": "Swifts",
+      "count": 5
+    },
+    "Paridae": {
+      "common_name": "Tits and chickadees",
+      "count": 12
+    },
+    "Aegithalidae": {
+      "common_name": "Long-tailed tits",
+      "count": 1
+    },
+    "Regulidae": {
+      "common_name": "Kinglets and firecrests",
+      "count": 2
+    },
+    "Mimidae": {
+      "common_name": "Mockingbirds and thrashers",
+      "count": 10
+    },
+    "Pteroclidae": {
+      "common_name": "Sandgrouse",
+      "count": 1
+    },
+    "Procellariidae": {
+      "common_name": "Petrels, shearwaters",
+      "count": 31
+    },
+    "Muscicapidae": {
+      "common_name": "Old World flycatchers and chats",
+      "count": 3
+    },
+    "Hirundinidae": {
+      "common_name": "Swallows and martins",
+      "count": 9
+    },
+    "Haematopodidae": {
+      "common_name": "Oystercatchers",
+      "count": 2
+    },
+    "Ptiliogonatidae": {
+      "common_name": "Silky-flycatchers",
+      "count": 1
+    },
+    "Calcariidae": {
+      "common_name": "Longspurs",
+      "count": 6
+    },
+    "Polioptilidae": {
+      "common_name": "Gnatcatchers",
+      "count": 4
+    },
+    "Pandionidae": {
+      "common_name": "Osprey",
+      "count": 1
+    },
+    "Bombycillidae": {
+      "common_name": "Waxwings",
+      "count": 2
+    },
+    "Anhingidae": {
+      "common_name": "Darters",
+      "count": 1
+    },
+    "Monarchidae": {
+      "common_name": "Monarch-flycatchers",
+      "count": 3
+    },
+    "Acrocephalidae": {
+      "common_name": "Reed-warblers",
+      "count": 1
+    },
+    "Phalacrocoracidae": {
+      "common_name": "Cormorants",
+      "count": 6
+    },
+    "Trogonidae": {
+      "common_name": "Trogons",
+      "count": 2
+    },
+    "Laniidae": {
+      "common_name": "Shrikes",
+      "count": 2
+    },
+    "Locustellidae": {
+      "common_name": "Grasshopper-warblers and grassbirds",
+      "count": 1
+    },
+    "Peucedramidae": {
+      "common_name": "Olive Warbler",
+      "count": 1
+    },
+    "Prunellidae": {
+      "common_name": "Accentors",
+      "count": 1
+    },
+    "Tytonidae": {
+      "common_name": "Barn-owls",
+      "count": 1
+    },
+    "Pelecanidae": {
+      "common_name": "Pelicans",
+      "count": 2
+    },
+    "Remizidae": {
+      "common_name": "Penduline-tits",
+      "count": 1
+    },
+    "Cinclidae": {
+      "common_name": "Dippers",
+      "count": 1
+    },
+    "Tityridae": {
+      "common_name": "Tityras and allies",
+      "count": 1
+    },
+    "Pycnonotidae": {
+      "common_name": "Bulbuls",
+      "count": 2
+    },
+    "Diomedeidae": {
+      "common_name": "Albatrosses",
+      "count": 3
+    },
+    "Thraupidae": {
+      "common_name": "Tanagers",
+      "count": 5
+    },
+    "Zosteropidae": {
+      "common_name": "White-eyes and yuhinas",
+      "count": 1
+    },
+    "Sulidae": {
+      "common_name": "Gannets, boobies",
+      "count": 4
+    },
+    "Certhiidae": {
+      "common_name": "Treecreepers",
+      "count": 1
+    },
+    "Phylloscopidae": {
+      "common_name": "Leaf-warblers",
+      "count": 1
+    },
+    "Aramidae": {
+      "common_name": "Limpkin",
+      "count": 1
+    },
+    "Passeridae": {
+      "common_name": "Old World sparrows",
+      "count": 2
+    },
+    "Sturnidae": {
+      "common_name": "Starlings",
+      "count": 2
+    },
+    "Oceanitidae": {
+      "common_name": "Southern storm-petrels",
+      "count": 1
+    },
+    "Phaethontidae": {
+      "common_name": "Tropicbirds",
+      "count": 2
+    },
+    "Fregatidae": {
+      "common_name": "Frigatebirds",
+      "count": 3
+    },
+    "Ploceidae": {
+      "common_name": "Weavers",
+      "count": 2
+    },
+    "Sylviidae": {
+      "common_name": "Old World warblers and parrotbills",
+      "count": 1
+    },
+    "Spindalidae": {
+      "common_name": "Spindalises",
+      "count": 1
+    }
+  },
+  "count": 884
+}
