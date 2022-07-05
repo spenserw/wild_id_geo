@@ -1,3 +1,5 @@
+require 'set'
+
 class BirdSpecies < ApplicationRecord
   belongs_to :bird_family
 
@@ -15,16 +17,23 @@ class BirdSpecies < ApplicationRecord
   end
 
   # Transform list of species to an organized object by families
-  def self.compose_minimal(species)
+  def self.compose(species)
     resp = {}
+
+    # Fetch families in bulk
+    family_ids = Set[]
     species.each_pair do |_, s|
-      family = BirdFamily.find_by(id: s[:family_id])
-      family_name = family.scientific_name
+      family_ids.add(s[:family_id])
+    end
+    families = BirdFamily.compose(BirdFamily.where(id: family_ids.to_a))
+
+    species.each_pair do |_, s|
+      family = families[s[:family_id]]
+      family_name = family[:scientific_name]
       resp[family_name] = { 'species' => {} } unless resp[family_name]
       resp[family_name]['species'][s[:scientific_name]] ||= { seasons: s['seasons'], origin: s[:origin] }
     end
 
-    puts "RESP: #{resp}"
     resp
   end
 
@@ -62,18 +71,18 @@ class BirdSpecies < ApplicationRecord
   # Get seasonal presence in full coverage
   def self.get_species(seasons, origin)
     present_species = get_species_seasonsal_presence(seasons, origin)
-    compose_minimal(present_species)
+    compose(present_species)
   end
 
   # Get seasonal presence for a given state
   def self.get_species_in_state(state_fips, seasons, origin)
     present_species = get_species_seasonsal_presence(seasons, origin, "'#{state_fips}'")
-    compose_minimal(present_species)
+    compose(present_species)
   end
 
   # Get seasonal presence for a given county
   def self.get_species_in_county(state_fips, county_fips, seasons, origin)
     present_species = get_species_seasonsal_presence(seasons, origin, "'#{state_fips}'->'#{county_fips}'")
-    compose_minimal(present_species)
+    compose(present_species)
   end
 end
